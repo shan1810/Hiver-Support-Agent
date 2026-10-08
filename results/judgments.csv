@@ -1,0 +1,1001 @@
+gid,system,grounded,helpful,tone,action_ok,send_ready,note
+g000,agent,5,5,5,True,True,ok
+g000,agent_noretrieval,5,5,5,True,True,ok
+g000,simple,3,2,4,True,False,"Vague, does not explain why a DM is needed or what to do."
+g000,historical,1,2,3,True,False,Invents a name (Benjamin) not present in the tweet.
+g000,trivial,5,5,5,True,True,ok
+g001,historical,5,3,4,True,True,Vague complaint requires DM for account-specific investigation.
+g001,trivial,5,3,4,True,True,Vague complaint requires DM for account-specific investigation.
+g001,agent,5,5,5,True,True,Good clarifying question for a vague complaint.
+g001,agent_noretrieval,5,5,5,True,True,Good clarifying question for a vague complaint.
+g001,simple,5,1,2,False,False,Irrelevant canned response to a vague complaint.
+g002,agent,5,5,5,True,True,ok
+g002,agent_noretrieval,5,5,5,True,True,ok
+g002,simple,1,1,2,True,False,Irrelevant information and outdated date.
+g002,historical,3,3,4,True,True,ok
+g002,trivial,1,1,3,False,False,Unnecessary escalation to DM for a general question.
+g003,trivial,5,5,5,True,True,ok
+g003,agent,5,5,5,True,True,ok
+g003,simple,5,3,4,True,False,Directing to a link is less helpful than immediate human assistance for account compromise.
+g003,historical,5,5,5,True,True,ok
+g003,agent_noretrieval,5,5,5,True,True,ok
+g004,trivial,3,2,4,False,False,Escalation to DM is unnecessary for a vague issue; ask for details first.
+g004,simple,2,4,4,True,False,Assumes the issue is resolved and specific to browser cache without confirmation.
+g004,historical,2,3,4,True,False,Assumes a service outage without verifying if the user's issue is actually resolved.
+g004,agent,5,5,5,True,True,ok
+g004,agent_noretrieval,5,5,5,True,True,ok
+g005,trivial,5,5,4,True,True,ok
+g005,agent_noretrieval,5,5,5,True,True,ok
+g005,simple,5,5,4,True,True,ok
+g005,agent,5,5,4,True,True,ok
+g005,historical,5,5,5,True,True,Addresses security risk of public transaction details.
+g006,historical,5,4,5,True,True,ok
+g006,simple,5,5,5,True,True,ok
+g006,agent,5,5,5,True,True,ok
+g006,agent_noretrieval,5,5,5,True,True,ok
+g006,trivial,5,2,4,False,False,Escalation to DM is unnecessary for a general troubleshooting issue.
+g007,simple,5,5,5,True,True,ok
+g007,agent,5,5,5,True,True,ok
+g007,agent_noretrieval,5,5,5,True,True,ok
+g007,trivial,1,1,3,False,False,Escalation not needed for content availability; asking for account details is inappropriate.
+g007,historical,5,5,5,True,True,ok
+g008,historical,4,4,5,True,True,ok
+g008,trivial,3,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g008,simple,3,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g008,agent_noretrieval,5,5,5,True,True,ok
+g008,agent,4,4,5,True,True,ok
+g009,historical,5,4,5,True,True,ok
+g009,agent,5,4,5,True,True,ok
+g009,trivial,1,1,3,False,False,Unnecessary request for account details for a general content availability question.
+g009,agent_noretrieval,5,4,4,True,True,ok
+g009,simple,1,2,3,True,False,Vague and slightly dismissive tone.
+g010,agent,5,5,5,True,True,ok
+g010,agent_noretrieval,5,5,5,True,True,ok
+g010,trivial,5,5,4,True,True,ok
+g010,simple,5,5,3,True,True,ok
+g010,historical,5,5,5,True,True,ok
+g011,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general content availability question.
+g011,historical,5,5,5,True,True,ok
+g011,agent,5,5,5,True,True,ok
+g011,simple,3,2,4,False,False,Unnecessary escalation to DM; assumes user is 'Scott' without evidence.
+g011,agent_noretrieval,5,5,5,True,True,ok
+g012,trivial,5,1,4,False,False,Unnecessary escalation to DM for feedback.
+g012,simple,5,3,3,True,True,ok
+g012,agent,5,4,5,True,True,ok
+g012,agent_noretrieval,5,5,5,True,True,ok
+g012,historical,5,4,5,True,True,ok
+g013,agent_noretrieval,5,5,5,True,True,ok
+g013,simple,5,3,5,True,True,ok
+g013,historical,5,3,5,True,True,ok
+g013,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g013,agent,5,5,5,True,True,ok
+g014,agent,5,4,5,True,True,ok
+g014,historical,5,3,4,True,True,ok
+g014,agent_noretrieval,5,2,4,False,False,Unnecessary escalation to DM for general feedback.
+g014,simple,5,5,5,True,True,ok
+g014,trivial,5,2,3,False,False,Asking for account details for a general feature question is inappropriate.
+g015,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g015,agent_noretrieval,5,5,5,True,True,ok
+g015,historical,5,5,5,True,True,ok
+g015,simple,5,1,4,True,False,Irrelevant information; does not answer the user's question about gifting.
+g015,agent,5,5,5,True,True,ok
+g016,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general content question.
+g016,agent,5,4,5,True,True,ok
+g016,historical,5,4,5,True,True,ok
+g016,simple,5,4,5,True,True,ok
+g016,agent_noretrieval,5,5,5,True,True,ok
+g017,agent_noretrieval,5,3,5,True,True,ok
+g017,simple,3,1,4,True,False,Assumes a specific issue not present in the customer tweet.
+g017,trivial,5,1,3,False,False,Escalating to DM for a vague greeting is unnecessary.
+g017,historical,1,1,3,True,False,Invents a service outage that was not reported.
+g017,agent,5,3,5,True,True,ok
+g018,trivial,5,5,5,True,True,Correct escalation for account-specific payment/login issue.
+g018,historical,1,1,3,False,False,Claims a DM reply exists when none was sent.
+g018,simple,5,3,5,True,True,"Helpful general info, though doesn't solve the specific account recovery issue."
+g018,agent,5,5,5,True,True,Appropriate escalation for account recovery.
+g018,agent_noretrieval,5,5,5,True,True,Good tone and appropriate escalation for account-specific help.
+g019,agent_noretrieval,5,5,5,True,True,ok
+g019,historical,5,4,4,True,True,ok
+g019,simple,3,2,3,True,False,"Irrelevant; the user is reporting a content error, not requesting a new feature."
+g019,agent,5,5,5,True,True,ok
+g019,trivial,5,2,3,False,False,Escalation to DM is unnecessary for a content report; public troubleshooting is preferred.
+g020,historical,5,5,5,True,True,ok
+g020,simple,3,1,3,False,False,Assumes a DM conversation exists that hasn't been established.
+g020,trivial,5,5,5,True,True,ok
+g020,agent,5,5,5,True,True,ok
+g020,agent_noretrieval,5,5,5,True,True,ok
+g021,simple,3,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g021,agent_noretrieval,5,5,5,True,True,ok
+g021,historical,3,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g021,agent,3,5,5,True,True,ok
+g021,trivial,3,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g022,agent,5,5,5,True,True,ok
+g022,trivial,5,5,5,True,True,ok
+g022,simple,5,5,5,True,True,ok
+g022,historical,5,5,5,True,True,ok
+g022,agent_noretrieval,4,5,4,True,True,ok
+g023,simple,5,1,3,True,False,Irrelevant response to the customer's specific complaint.
+g023,agent,5,5,5,True,True,ok
+g023,agent_noretrieval,5,5,5,True,True,ok
+g023,trivial,5,1,3,False,False,Escalation to DM is unnecessary for general feature feedback.
+g023,historical,5,4,4,True,True,ok
+g024,agent,5,5,5,True,True,ok
+g024,trivial,5,5,5,True,True,ok
+g024,simple,1,1,3,False,False,Irrelevant response; mentions Spotify for Artists instead of billing issue.
+g024,agent_noretrieval,5,5,5,True,True,ok
+g024,historical,5,5,5,True,True,ok
+g025,simple,5,2,4,False,False,Vague; does not explain why a DM is needed for a login issue.
+g025,historical,5,5,5,True,True,Appropriate escalation for account recovery; helpful and on-brand.
+g025,trivial,5,5,4,True,True,Clear and helpful request for account recovery.
+g025,agent_noretrieval,5,5,5,True,True,Good tone and clear instructions for account recovery.
+g025,agent,5,5,5,True,True,"Friendly, on-brand, and correctly escalates for account recovery."
+g026,agent_noretrieval,5,5,5,True,True,ok
+g026,agent,5,5,5,True,True,ok
+g026,historical,5,5,5,True,True,ok
+g026,simple,5,5,5,True,True,ok
+g026,trivial,5,5,5,True,True,ok
+g027,simple,3,1,3,True,False,Irrelevant response; customer did not ask about content availability.
+g027,trivial,5,3,4,False,False,Escalation to DM is unnecessary for a vague complaint.
+g027,agent_noretrieval,5,5,5,True,True,ok
+g027,agent,5,4,5,True,True,ok
+g027,historical,5,5,5,True,True,ok
+g028,agent,3,2,4,False,False,Vague request for DM; should provide troubleshooting or clarify the issue first.
+g028,trivial,3,2,4,False,False,Asking for account details publicly is a security risk.
+g028,simple,5,5,5,True,True,Correctly directs the user to the appropriate support channel.
+g028,historical,4,4,5,True,True,Provides helpful context and asks for info only if necessary.
+g028,agent_noretrieval,3,3,4,False,False,Asking for account email publicly is a security risk.
+g029,historical,5,5,5,True,True,ok
+g029,trivial,1,1,3,False,False,Asking for account details for a general availability question is unnecessary and inappropriate.
+g029,simple,2,2,2,True,False,Vague and slightly confusing phrasing regarding availability.
+g029,agent,5,5,5,True,True,ok
+g029,agent_noretrieval,5,5,5,True,True,ok
+g030,simple,3,1,3,True,False,"Too vague, does not address the user's specific request or context."
+g030,historical,5,4,5,True,True,"Friendly, acknowledges the request, and provides relevant info."
+g030,agent_noretrieval,5,5,5,True,True,"Excellent, helpful, and on-brand."
+g030,agent,5,5,5,True,True,"Warm, polite, and addresses the feedback appropriately."
+g030,trivial,5,1,3,False,False,Unnecessary escalation for a simple feature request.
+g031,agent,5,5,5,True,True,ok
+g031,simple,1,1,3,False,False,Assumes a DM exists that hasn't been sent.
+g031,trivial,3,3,3,False,False,Asking for account details publicly is a security risk.
+g031,agent_noretrieval,5,5,4,True,True,ok
+g031,historical,3,3,3,False,False,Asking for account details publicly is a security risk.
+g032,agent_noretrieval,5,5,5,True,True,ok
+g032,agent,5,5,5,True,True,ok
+g032,historical,5,4,4,True,True,ok
+g032,simple,5,4,5,True,True,ok
+g032,trivial,1,1,3,False,False,Never ask for account details publicly.
+g033,simple,5,5,5,True,True,Correctly identifies account-specific billing change and requests DM.
+g033,agent_noretrieval,5,5,5,True,True,Correctly identifies account-specific billing change and requests DM.
+g033,agent,5,5,5,True,True,Correctly identifies account-specific billing change and requests DM.
+g033,historical,5,5,5,True,False,Uses wrong customer name (James instead of Vanessa).
+g033,trivial,5,5,4,True,True,Correctly identifies account-specific billing change and requests DM.
+g034,agent,5,5,5,True,True,ok
+g034,agent_noretrieval,5,5,5,True,True,ok
+g034,trivial,5,4,4,True,True,ok
+g034,simple,5,4,4,True,True,ok
+g034,historical,5,4,4,True,True,ok
+g035,agent_noretrieval,5,5,5,True,True,ok
+g035,trivial,1,1,3,False,False,Unnecessary escalation to DM for a simple how-to question.
+g035,simple,3,2,4,False,False,Unnecessary request for device info; lyrics are a standard feature.
+g035,agent,5,5,5,True,True,ok
+g035,historical,1,1,3,True,False,Factually incorrect; Spotify has a built-in lyrics feature.
+g036,agent_noretrieval,5,5,5,True,True,ok
+g036,historical,3,1,3,False,False,Unnecessary escalation to DM for a general content availability question.
+g036,simple,1,1,4,True,False,Irrelevant response; ignores the user's specific questions about album availability.
+g036,agent,5,4,5,True,True,ok
+g036,trivial,3,1,3,False,False,Unnecessary escalation to DM for a general content availability question.
+g037,simple,5,3,4,False,False,Asks for personal data publicly; escalation not required for general how-to.
+g037,trivial,5,3,4,False,False,Asks for personal data publicly; escalation not required for general how-to.
+g037,agent,5,3,4,False,False,Asks for personal data publicly; escalation not required for general how-to.
+g037,agent_noretrieval,5,3,4,False,False,Asks for personal data publicly; escalation not required for general how-to.
+g037,historical,5,4,4,False,False,Asks for personal data publicly; escalation not required for general how-to.
+g038,agent_noretrieval,5,5,5,True,True,ok
+g038,agent,5,5,5,True,True,ok
+g038,trivial,5,5,5,True,True,ok
+g038,historical,5,3,4,False,False,"Hacked accounts require direct human intervention, not just a link."
+g038,simple,5,3,4,False,False,"Hacked accounts require direct human intervention, not just a link."
+g039,trivial,5,2,4,False,False,Escalation to DM is unnecessary for a general service outage report.
+g039,agent,5,5,5,True,True,ok
+g039,simple,1,1,3,False,False,Irrelevant response; assumes a specific song issue when user reported outage.
+g039,agent_noretrieval,3,4,5,True,True,ok
+g039,historical,1,2,4,True,False,Assumes the issue is resolved without verifying; potentially inaccurate.
+g040,simple,1,1,3,True,False,Irrelevant response; ignores the customer's question about discounts.
+g040,historical,5,4,5,True,True,"Good, friendly acknowledgement of feedback."
+g040,trivial,5,2,4,False,False,Escalation to DM is unnecessary for a general feedback question.
+g040,agent,5,5,5,True,True,Directly answers the question and provides a helpful resource.
+g040,agent_noretrieval,5,4,5,True,True,Helpful and on-brand response.
+g041,agent,5,5,5,True,True,ok
+g041,agent_noretrieval,5,5,5,True,True,ok
+g041,trivial,3,1,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g041,simple,3,1,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g041,historical,3,1,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g042,agent,5,5,5,True,True,ok
+g042,simple,5,5,5,True,True,ok
+g042,agent_noretrieval,5,5,5,True,True,ok
+g042,trivial,5,5,5,True,True,ok
+g042,historical,5,5,5,True,True,ok
+g043,historical,5,5,5,True,True,ok
+g043,agent_noretrieval,4,4,5,True,True,ok
+g043,agent,5,4,5,True,True,ok
+g043,simple,3,2,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g043,trivial,3,2,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g044,agent,5,5,5,True,True,ok
+g044,historical,3,1,3,True,False,"Irrelevant questions; user is complaining about ads, not technical crashes."
+g044,agent_noretrieval,5,5,5,True,True,ok
+g044,simple,1,1,3,True,False,Completely irrelevant response to an ad complaint.
+g044,trivial,5,1,3,False,False,Escalation to DM is unnecessary for a general feature complaint.
+g045,historical,5,4,5,True,True,ok
+g045,agent,5,5,5,True,True,ok
+g045,simple,4,3,5,True,True,ok
+g045,trivial,5,1,4,False,False,Unnecessary escalation for a general information question.
+g045,agent_noretrieval,5,4,5,True,True,ok
+g046,agent_noretrieval,5,5,5,True,True,ok
+g046,simple,3,2,3,False,False,Unnecessary escalation to DM for a general policy question.
+g046,trivial,3,2,3,False,False,Unnecessary escalation to DM for a general policy question.
+g046,historical,3,2,3,False,False,Unnecessary escalation to DM for a general policy question.
+g046,agent,3,2,3,False,False,Unnecessary escalation to DM for a general policy question.
+g047,agent_noretrieval,5,5,5,True,True,ok
+g047,simple,1,1,3,True,False,Irrelevant response about lyrics.
+g047,trivial,5,1,3,False,False,Unnecessary escalation to DM for a general how-to question.
+g047,historical,5,5,5,True,True,ok
+g047,agent,3,3,4,True,False,Vague about audio mixing settings; potentially misleading.
+g048,trivial,5,5,5,True,True,ok
+g048,agent,5,5,5,True,True,ok
+g048,agent_noretrieval,5,5,5,True,True,ok
+g048,simple,1,1,2,False,False,Irrelevant response to a login issue.
+g048,historical,5,5,5,True,True,ok
+g049,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general feature question.
+g049,agent,5,5,5,True,True,ok
+g049,agent_noretrieval,5,5,5,True,True,ok
+g049,historical,1,5,5,True,False,Invents facts; confirms the feature without official announcement.
+g049,simple,5,5,5,True,True,ok
+g050,agent_noretrieval,5,5,5,True,True,Correctly identifies SheerID and escalates for account-specific verification.
+g050,historical,4,4,4,True,True,"Good, though assumes the user's name is Jason."
+g050,agent,4,4,4,True,True,Helpful and appropriate escalation for account-specific troubleshooting.
+g050,simple,4,4,4,True,True,Clear and concise escalation.
+g050,trivial,4,4,4,True,True,"Standard, effective escalation."
+g051,trivial,1,1,3,False,False,Asking for account details for a job inquiry is inappropriate and unnecessary.
+g051,agent_noretrieval,5,5,5,True,True,ok
+g051,agent,5,5,5,True,True,ok
+g051,simple,3,3,4,True,False,Uses a name not provided in the tweet; generic response.
+g051,historical,1,3,3,True,False,"Implies they are hired, which is misleading."
+g052,agent,5,5,5,True,True,ok
+g052,historical,5,5,5,True,True,ok
+g052,simple,3,2,4,False,False,Redirecting to email support is not helpful for account recovery.
+g052,trivial,5,5,5,True,True,ok
+g052,agent_noretrieval,5,5,5,True,True,ok
+g053,historical,5,5,5,True,True,ok
+g053,simple,3,1,4,True,False,Irrelevant response; does not address the promo button issue.
+g053,trivial,5,3,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g053,agent,4,4,5,True,True,ok
+g053,agent_noretrieval,5,5,5,True,True,ok
+g054,simple,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g054,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g054,agent_noretrieval,5,5,5,True,True,ok
+g054,historical,5,4,5,True,True,Good clarifying questions to troubleshoot the issue publicly.
+g054,agent,5,5,5,True,True,ok
+g055,simple,5,5,5,True,True,ok
+g055,agent_noretrieval,5,5,5,True,True,ok
+g055,historical,3,2,3,False,False,Too generic for a security compromise issue.
+g055,trivial,5,5,5,True,True,ok
+g055,agent,5,5,5,True,True,ok
+g056,agent_noretrieval,5,3,5,True,True,"Friendly, appropriate response to a vague greeting."
+g056,agent,5,5,5,True,True,Good clarifying question for a vague tweet.
+g056,trivial,3,3,3,False,False,Escalation to DM is unnecessary for a vague greeting.
+g056,historical,5,5,5,True,True,"Friendly and helpful, addresses the user by name."
+g056,simple,1,1,3,True,False,Hallucinates a specific issue not mentioned by the user.
+g057,agent_noretrieval,5,5,5,True,True,Correctly identifies potential security issue and requests DM for account-specific investigation.
+g057,simple,3,2,3,True,False,Vague; does not acknowledge the specific issue mentioned by the user.
+g057,trivial,4,4,4,True,True,Appropriate escalation for potential account compromise.
+g057,historical,4,4,4,True,True,Good tone and appropriate escalation for account security concerns.
+g057,agent,4,4,4,True,True,Appropriate tone and escalation for potential account security issue.
+g058,agent,5,5,5,True,True,ok
+g058,agent_noretrieval,5,5,5,True,True,ok
+g058,trivial,5,5,5,True,True,ok
+g058,simple,5,5,5,True,True,ok
+g058,historical,5,5,5,True,True,ok
+g059,trivial,5,5,4,True,True,ok
+g059,agent_noretrieval,5,5,5,True,True,ok
+g059,agent,5,5,5,True,True,ok
+g059,simple,5,5,5,True,True,ok
+g059,historical,5,5,4,True,True,ok
+g060,trivial,3,2,4,False,False,Unnecessary request for account details for a content availability question.
+g060,agent,3,2,4,False,False,Unnecessary request for a DM/backstage check for a content availability question.
+g060,historical,3,2,4,False,False,Unnecessary request for a DM/backstage check for a content availability question.
+g060,agent_noretrieval,5,5,5,True,True,ok
+g060,simple,3,2,4,False,False,Unnecessary request for a DM/backstage check for a content availability question.
+g061,simple,5,3,4,True,False,Addresses security but fails to address the billing issue directly.
+g061,agent,5,5,5,True,True,ok
+g061,trivial,5,5,5,True,True,ok
+g061,agent_noretrieval,5,5,4,True,True,ok
+g061,historical,5,5,5,True,True,ok
+g062,agent_noretrieval,5,5,5,True,True,ok
+g062,trivial,5,5,4,False,False,Do not ask for personal data like email/username in a public tweet.
+g062,historical,5,4,4,True,True,ok
+g062,simple,5,1,4,False,False,Ignores the security/hacked account issue entirely.
+g062,agent,5,5,4,False,False,Do not ask for personal data like email in a public tweet.
+g063,trivial,5,5,5,True,True,ok
+g063,agent_noretrieval,5,5,5,True,True,ok
+g063,simple,1,1,3,False,False,Irrelevant response to a billing dispute.
+g063,historical,5,5,5,True,True,ok
+g063,agent,5,5,5,True,True,ok
+g064,agent,5,5,5,True,True,ok
+g064,trivial,3,1,3,False,False,Unnecessary escalation to DM for a technical troubleshooting issue.
+g064,historical,5,4,5,True,True,ok
+g064,agent_noretrieval,5,5,5,True,True,ok
+g064,simple,5,4,5,True,True,ok
+g065,trivial,5,5,5,True,True,ok
+g065,historical,5,5,5,True,True,ok
+g065,simple,5,5,5,True,True,ok
+g065,agent,5,5,5,True,True,ok
+g065,agent_noretrieval,5,5,5,True,True,ok
+g066,trivial,5,5,5,True,True,ok
+g066,agent,5,5,5,True,True,ok
+g066,historical,1,1,3,False,False,Invents facts and exposes account details publicly.
+g066,simple,5,1,4,False,False,Ignores the billing issue entirely.
+g066,agent_noretrieval,5,5,5,True,True,ok
+g067,simple,5,5,5,True,True,Correct escalation for account-specific billing issue.
+g067,historical,5,5,5,True,True,Correct escalation for account-specific billing issue.
+g067,agent_noretrieval,5,5,5,True,True,Correct escalation for account-specific billing issue.
+g067,agent,4,5,4,False,False,Do not ask for sensitive info like PayPal email in DMs.
+g067,trivial,5,5,5,True,True,Correct escalation for account-specific billing issue.
+g068,agent_noretrieval,5,5,5,True,True,ok
+g068,historical,5,5,5,True,True,ok
+g068,agent,5,5,5,True,True,ok
+g068,simple,5,2,4,True,False,Ignores the security/hacked account aspect of the user's tweet.
+g068,trivial,5,5,5,True,True,ok
+g069,simple,3,2,4,False,False,Does not address the refund request or the need for account-specific investigation.
+g069,trivial,5,5,5,True,True,ok
+g069,agent,5,5,5,True,True,ok
+g069,historical,5,5,5,True,True,ok
+g069,agent_noretrieval,5,5,5,True,True,ok
+g070,agent,5,4,5,True,True,ok
+g070,historical,1,1,3,True,False,Invents a fix without evidence of an outage.
+g070,simple,5,4,5,True,True,ok
+g070,trivial,3,2,3,False,False,Escalation to DM is unnecessary for a general status inquiry.
+g070,agent_noretrieval,5,5,5,True,True,ok
+g071,trivial,5,4,4,True,True,Account-specific billing inquiry requires DM for security.
+g071,agent,5,4,4,True,True,Account-specific billing inquiry requires DM for security.
+g071,simple,5,4,4,True,True,Account-specific billing inquiry requires DM for security.
+g071,agent_noretrieval,5,4,3,True,True,Account-specific billing inquiry requires DM for security.
+g071,historical,5,4,4,True,True,Account-specific billing inquiry requires DM for security.
+g072,agent,5,3,5,True,True,ok
+g072,historical,3,1,3,False,False,Unnecessary escalation to DM for general feedback.
+g072,agent_noretrieval,5,4,5,True,True,ok
+g072,trivial,3,1,3,False,False,Escalation to DM is inappropriate for general feedback/complaint.
+g072,simple,5,1,3,True,False,Ignores the user's frustration and technical issue.
+g073,historical,5,3,4,True,True,Acceptable escalation for account-specific billing issue.
+g073,agent_noretrieval,5,5,5,True,True,"Good tone, clear escalation for billing issue."
+g073,trivial,5,4,4,True,True,Clear and concise escalation for billing issue.
+g073,simple,5,4,4,True,True,Clear and concise escalation for billing issue.
+g073,agent,5,5,5,True,True,Empathetic and clear escalation for billing issue.
+g074,simple,5,5,5,True,True,ok
+g074,agent,5,3,5,True,True,ok
+g074,trivial,3,1,3,False,False,Escalation not needed for general feedback; do not ask for account info publicly.
+g074,historical,3,3,5,True,True,ok
+g074,agent_noretrieval,5,5,5,True,True,ok
+g075,agent_noretrieval,5,5,5,True,True,ok
+g075,trivial,5,5,5,True,True,ok
+g075,historical,5,5,5,True,True,ok
+g075,simple,4,4,4,True,True,ok
+g075,agent,5,5,5,True,True,ok
+g076,simple,3,2,4,False,False,Escalation to DM is unnecessary for feature feedback.
+g076,agent_noretrieval,5,5,5,True,True,ok
+g076,trivial,3,2,4,False,False,Escalation to DM is unnecessary for feature feedback.
+g076,historical,3,2,4,False,False,Unsolicited DM request for feature feedback is not allowed.
+g076,agent,5,5,5,True,True,ok
+g077,agent,5,5,5,True,True,Correctly identifies sensitive info and requests DM for account-specific troubleshooting.
+g077,historical,4,4,4,True,True,"Good, but R1 is better for addressing the public sensitive data."
+g077,agent_noretrieval,4,4,4,True,True,"Helpful, but should advise user to delete the tweet containing their order number."
+g077,simple,1,1,2,False,False,Irrelevant response; ignores the user's specific technical issue.
+g077,trivial,4,4,4,True,True,"Standard support response, though lacks the security warning for the public tweet."
+g078,historical,5,4,5,True,True,ok
+g078,simple,3,2,2,True,False,Incomplete sentence and uses generic 'feel that way' which is dismissive.
+g078,agent_noretrieval,2,3,3,False,False,Asking for bank statement details in DM is a security risk.
+g078,trivial,3,3,4,True,True,ok
+g078,agent,4,4,4,True,True,ok
+g079,historical,5,5,5,True,True,ok
+g079,agent_noretrieval,5,5,5,True,True,ok
+g079,simple,5,5,5,True,True,ok
+g079,trivial,5,5,5,True,True,ok
+g079,agent,5,5,5,True,True,ok
+g080,simple,5,5,4,True,True,ok
+g080,historical,5,5,5,True,True,ok
+g080,agent,5,5,4,True,True,ok
+g080,agent_noretrieval,5,5,4,True,True,ok
+g080,trivial,5,5,5,True,True,ok
+g081,agent,5,5,5,True,True,ok
+g081,trivial,5,5,5,True,True,ok
+g081,historical,5,5,5,True,True,ok
+g081,simple,1,1,2,False,False,Confusingly references a sister not mentioned in the original tweet.
+g081,agent_noretrieval,5,5,5,True,True,ok
+g082,simple,5,3,5,True,True,Good troubleshooting step to start with.
+g082,agent_noretrieval,5,5,5,True,True,Login issues require account-specific support via DM.
+g082,historical,5,5,5,True,True,Appropriate escalation for login failure.
+g082,agent,5,5,5,True,True,Appropriate escalation for login failure.
+g082,trivial,5,5,5,True,True,Appropriate escalation for login failure.
+g083,trivial,3,3,3,False,False,Unnecessary escalation to DM for a general policy question.
+g083,historical,3,3,3,False,False,Unnecessary escalation to DM for a general policy question.
+g083,agent,3,3,3,False,False,Unnecessary escalation to DM for a general policy question.
+g083,agent_noretrieval,3,3,3,False,False,Unnecessary escalation to DM for a general policy question.
+g083,simple,3,3,3,False,False,Unnecessary escalation to DM for a general policy question.
+g084,agent,5,5,5,True,True,ok
+g084,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g084,simple,1,1,3,True,False,Irrelevant response; ignores the customer's actual question about a purchase button.
+g084,historical,3,4,4,True,True,ok
+g084,agent_noretrieval,5,5,5,True,True,ok
+g085,historical,5,3,4,True,True,Friendly and appropriate response to a positive tweet.
+g085,agent,5,4,5,True,True,"Warm, concise, and on-brand."
+g085,simple,1,1,4,True,False,Invents facts about the user's intent; irrelevant to the tweet.
+g085,agent_noretrieval,5,4,5,True,True,Perfectly captures the SpotifyCares tone.
+g085,trivial,5,1,3,False,False,Unnecessary escalation for a non-issue tweet.
+g086,agent_noretrieval,5,5,5,True,True,ok
+g086,agent,5,5,5,True,True,ok
+g086,trivial,5,5,5,True,True,ok
+g086,simple,1,1,2,False,False,Irrelevant troubleshooting for a payment/account issue.
+g086,historical,5,5,5,True,True,ok
+g087,simple,3,1,3,True,False,Irrelevant link provided; does not address the user's frustration.
+g087,agent,5,5,5,True,True,ok
+g087,agent_noretrieval,5,5,5,True,True,ok
+g087,trivial,1,1,3,False,False,Asks for personal data publicly; unnecessary escalation for general app issues.
+g087,historical,1,1,3,True,False,False claim that the issue is resolved.
+g088,trivial,5,2,4,False,False,Unnecessary escalation; this is a general how-to question.
+g088,agent_noretrieval,5,5,5,True,True,ok
+g088,simple,5,2,4,False,False,Unnecessary escalation; this is a general how-to question.
+g088,historical,5,2,4,False,False,Unnecessary escalation; this is a general how-to question.
+g088,agent,5,5,5,True,True,ok
+g089,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g089,agent_noretrieval,5,5,5,True,True,ok
+g089,simple,1,1,3,True,False,Invents irrelevant facts about Android; ignores the user's specific app loading issue.
+g089,historical,1,1,3,True,False,False claim that the issue is fixed; ignores the user's actual problem.
+g089,agent,5,5,5,True,True,ok
+g090,simple,5,3,4,True,True,Appropriate escalation for account recovery and billing issues.
+g090,trivial,5,4,4,True,True,"Good, but should ideally warn about the public tweet."
+g090,agent,5,5,5,True,True,"Excellent; addresses security, account recovery, and billing."
+g090,historical,5,4,4,True,True,"Good, but assumes the user's name is Harrison (not in tweet)."
+g090,agent_noretrieval,5,5,5,True,True,"Professional, helpful, and addresses security concerns."
+g091,trivial,5,4,3,True,False,Too robotic and lacks empathy for a security concern.
+g091,agent,5,5,5,True,True,ok
+g091,simple,5,4,4,True,False,Used a name not provided in the tweet.
+g091,historical,5,5,5,True,True,ok
+g091,agent_noretrieval,5,5,5,True,True,ok
+g092,simple,1,2,3,True,False,Invents a promise about availability that is not grounded.
+g092,agent_noretrieval,5,4,5,True,True,ok
+g092,agent,5,5,5,True,True,ok
+g092,historical,5,4,4,True,True,ok
+g092,trivial,5,1,3,False,False,Unnecessary escalation for general feature feedback.
+g093,agent_noretrieval,5,5,5,True,True,ok
+g093,agent,5,5,5,True,True,ok
+g093,historical,4,4,5,True,True,ok
+g093,simple,1,1,3,True,False,Irrelevant response to a technical issue.
+g093,trivial,5,1,3,False,False,Escalation to DM is unnecessary for a general troubleshooting issue.
+g094,agent,5,5,5,True,True,ok
+g094,simple,1,1,3,False,False,Irrelevant troubleshooting steps for a security/hacked account issue.
+g094,historical,3,4,4,True,False,Assumes user name is John without evidence; otherwise good.
+g094,agent_noretrieval,5,5,5,True,True,ok
+g094,trivial,5,5,5,True,True,ok
+g095,historical,5,5,5,True,True,ok
+g095,agent,5,5,5,True,True,ok
+g095,simple,1,1,3,False,False,Claims to have sent a DM when they have not.
+g095,trivial,5,5,5,True,True,ok
+g095,agent_noretrieval,4,5,5,True,True,ok
+g096,historical,5,4,4,True,True,ok
+g096,trivial,5,4,4,True,True,ok
+g096,agent_noretrieval,5,4,4,True,True,ok
+g096,simple,5,4,4,True,True,ok
+g096,agent,5,5,5,True,True,ok
+g097,agent,5,5,5,True,True,ok
+g097,trivial,5,5,5,True,True,ok
+g097,agent_noretrieval,5,5,5,True,True,ok
+g097,simple,1,1,4,False,False,Ignores the billing issue and provides irrelevant sign-up steps.
+g097,historical,5,5,5,True,True,ok
+g098,trivial,3,2,4,False,False,Unnecessary escalation to DM for a general policy question.
+g098,agent,3,2,4,False,False,Unnecessary escalation to DM for a general policy question.
+g098,agent_noretrieval,4,3,4,False,False,Unnecessary escalation to DM for a general policy question.
+g098,simple,5,5,5,True,True,ok
+g098,historical,5,5,5,True,True,ok
+g099,simple,1,1,3,False,False,Irrelevant response that ignores the customer's issue.
+g099,historical,4,5,5,True,True,Appropriate escalation for account-specific family plan troubleshooting.
+g099,trivial,4,4,4,True,True,"Good, but R2 is slightly more specific regarding the family plan."
+g099,agent_noretrieval,4,5,5,True,True,"Friendly, helpful, and correctly escalates to DM for account-specific help."
+g099,agent,4,5,5,True,True,"Clear, helpful, and correctly escalates to DM for account-specific help."
+g100,agent_noretrieval,5,5,5,True,True,ok
+g100,historical,1,1,3,True,False,Invents a service outage without verification.
+g100,trivial,3,2,3,False,False,Escalation to DM is unnecessary for basic troubleshooting.
+g100,agent,5,5,5,True,True,ok
+g100,simple,5,4,5,True,True,ok
+g101,historical,5,5,5,True,True,ok
+g101,trivial,5,5,5,True,True,ok
+g101,agent,5,5,5,True,True,ok
+g101,agent_noretrieval,5,5,4,True,True,ok
+g101,simple,5,5,5,True,True,ok
+g102,agent,5,5,5,True,True,ok
+g102,historical,4,4,5,True,True,ok
+g102,trivial,1,1,3,False,False,Unnecessary escalation for feature feedback.
+g102,simple,3,2,3,False,False,Troubleshooting is not relevant for a feature request.
+g102,agent_noretrieval,5,5,5,True,True,ok
+g103,historical,5,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g103,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general how-to question.
+g103,agent_noretrieval,5,5,5,True,True,ok
+g103,agent,5,4,5,True,True,ok
+g103,simple,5,3,4,True,True,Valid clarifying question for troubleshooting.
+g104,simple,1,1,3,False,False,Incorrectly assumes the user is speaking Finnish.
+g104,historical,5,4,4,True,True,ok
+g104,agent,5,5,5,True,True,ok
+g104,agent_noretrieval,5,5,5,True,True,ok
+g104,trivial,5,1,3,False,False,Escalation to DM is unnecessary for a feature request.
+g105,historical,5,3,5,True,True,Appropriate escalation for account access issues.
+g105,trivial,5,4,5,True,True,"Good, clear request for DM to handle account access."
+g105,agent_noretrieval,5,4,5,True,True,Friendly and appropriate escalation for login issues.
+g105,simple,5,4,5,True,True,Personalized and appropriate escalation for login issues.
+g105,agent,5,4,5,True,True,Clear and helpful request for DM to resolve login.
+g106,agent,5,3,5,True,True,ok
+g106,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general feature feedback issue.
+g106,simple,1,1,3,True,False,Irrelevant response regarding content availability.
+g106,agent_noretrieval,5,5,5,True,True,ok
+g106,historical,5,4,5,True,True,ok
+g107,trivial,1,1,3,False,False,Unnecessary request for account details for a general availability question.
+g107,simple,5,5,5,True,True,ok
+g107,agent_noretrieval,5,5,5,True,True,ok
+g107,historical,5,5,4,True,True,ok
+g107,agent,5,5,4,True,True,ok
+g108,trivial,5,5,5,True,True,ok
+g108,historical,5,5,5,True,True,ok
+g108,simple,1,1,3,False,False,Misinterprets the issue as content availability instead of a billing/fraud complaint.
+g108,agent_noretrieval,5,5,5,True,True,ok
+g108,agent,5,5,5,True,True,ok
+g109,agent_noretrieval,4,5,4,True,True,ok
+g109,trivial,5,5,5,True,True,ok
+g109,agent,5,5,5,True,True,ok
+g109,historical,1,5,4,True,False,Invents a name (Lina) not present in the tweet.
+g109,simple,1,5,4,True,False,Invents a name (Jake) not present in the tweet.
+g110,historical,5,5,5,True,True,ok
+g110,simple,4,3,5,True,True,ok
+g110,trivial,5,1,4,False,False,Escalation to DM is unnecessary for a general troubleshooting question.
+g110,agent_noretrieval,5,5,5,True,True,ok
+g110,agent,5,5,5,True,True,ok
+g111,simple,3,2,3,True,False,Too vague; does not address the compromised account situation effectively.
+g111,historical,3,2,3,True,False,Generic link does not address the specific account compromise issue.
+g111,agent_noretrieval,5,5,5,True,True,ok
+g111,agent,5,5,5,True,True,ok
+g111,trivial,5,5,5,True,True,ok
+g112,agent,5,5,5,True,True,ok
+g112,simple,1,1,2,False,False,Completely irrelevant to the customer's complaint about support.
+g112,agent_noretrieval,5,5,5,True,True,ok
+g112,historical,4,4,4,True,True,ok
+g112,trivial,4,4,4,True,True,ok
+g113,agent_noretrieval,5,5,5,True,True,ok
+g113,agent,5,5,5,True,True,ok
+g113,trivial,5,4,4,False,False,Do not ask for account details publicly.
+g113,historical,3,3,4,True,False,Assumes a DM conversation exists that hasn't happened yet.
+g113,simple,3,3,4,True,False,Assumes a DM conversation exists that hasn't happened yet.
+g114,agent_noretrieval,5,5,5,True,True,ok
+g114,simple,4,3,3,True,True,ok
+g114,agent,4,3,4,True,True,ok
+g114,trivial,1,1,3,False,False,Escalation not needed for feature availability; do not ask for personal data.
+g114,historical,4,4,5,True,True,ok
+g115,agent,5,5,5,True,True,ok
+g115,agent_noretrieval,5,5,4,True,True,ok
+g115,trivial,5,5,5,True,True,ok
+g115,simple,1,5,5,True,False,Invents a name (Ellie) not present in the tweet.
+g115,historical,1,5,5,True,False,Invents a name (Clare) not present in the tweet.
+g116,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general content availability question.
+g116,simple,5,1,4,True,False,Irrelevant response; does not address the user's question about the specific song.
+g116,agent_noretrieval,5,5,5,True,True,ok
+g116,agent,5,5,5,True,True,ok
+g116,historical,5,3,4,True,True,Reasonable clarifying question regarding regional licensing.
+g117,historical,5,5,5,True,True,Correctly identifies non-English language and offers appropriate support channel.
+g117,agent,5,5,5,True,True,"Good, offers English or Indonesian support options."
+g117,trivial,3,3,4,False,False,Should not ask for account details publicly; ignores language barrier.
+g117,simple,5,5,5,True,True,Correctly identifies non-English language and offers appropriate support channel.
+g117,agent_noretrieval,3,3,4,False,False,Asks for personal data publicly; ignores language barrier.
+g118,agent_noretrieval,5,5,5,True,True,ok
+g118,simple,3,2,3,False,False,Escalation to DM is unnecessary for a general troubleshooting issue.
+g118,agent,5,5,5,True,True,ok
+g118,historical,1,1,4,True,False,Assumes a service outage without verification; potentially inaccurate.
+g118,trivial,3,2,3,False,False,Escalation to DM is unnecessary for a general troubleshooting issue.
+g119,agent,5,5,5,True,True,ok
+g119,agent_noretrieval,5,5,5,True,True,ok
+g119,historical,3,3,3,True,False,"Vague, does not confirm if a DM was actually sent."
+g119,simple,3,2,4,False,False,Assumes eligibility issue without investigating the specific billing discrepancy reported.
+g119,trivial,5,5,5,True,True,ok
+g120,agent,5,5,5,True,True,ok
+g120,agent_noretrieval,5,5,5,True,True,ok
+g120,simple,3,3,3,True,False,Vague link inclusion is unnecessary and slightly confusing.
+g120,historical,5,5,5,True,True,ok
+g120,trivial,5,1,4,False,False,Unnecessary escalation for a simple compliment.
+g121,agent_noretrieval,5,5,5,True,True,ok
+g121,trivial,5,5,5,True,True,ok
+g121,agent,5,5,5,True,True,ok
+g121,simple,1,1,3,False,False,Irrelevant advice; ignores the family plan reauthorization issue.
+g121,historical,5,5,5,True,True,ok
+g122,historical,5,5,5,True,True,Correctly identifies service availability in India and provides a relevant link.
+g122,agent,3,2,4,False,False,Escalates to DM unnecessarily for a general availability question.
+g122,agent_noretrieval,3,2,4,False,False,Escalates to DM unnecessarily; ignores the regional availability issue.
+g122,trivial,3,2,4,False,False,Escalates to DM unnecessarily; ignores the regional availability issue.
+g122,simple,5,4,5,True,True,"Helpful and grounded, though slightly less specific than R1."
+g123,simple,5,1,4,False,False,Unnecessary escalation to DM for general feature feedback.
+g123,agent_noretrieval,5,5,5,True,True,ok
+g123,agent,5,5,5,True,True,ok
+g123,historical,5,4,5,True,True,ok
+g123,trivial,5,1,4,False,False,Unnecessary escalation to DM for general feature feedback.
+g124,simple,5,5,5,True,True,ok
+g124,agent_noretrieval,5,5,5,True,True,ok
+g124,trivial,5,5,5,True,True,ok
+g124,agent,5,5,5,True,True,ok
+g124,historical,5,5,5,True,True,ok
+g125,historical,5,5,5,True,True,ok
+g125,agent,5,5,5,True,True,ok
+g125,simple,5,5,5,True,True,ok
+g125,agent_noretrieval,5,5,5,False,False,Do not ask for personal data like email in a public tweet.
+g125,trivial,5,5,5,False,False,Do not ask for personal data like email in a public tweet.
+g126,agent_noretrieval,5,5,5,True,True,"Empathetic, provides actionable advice, and respects the user's situation."
+g126,trivial,3,2,3,False,False,Asking for account details publicly is a security risk.
+g126,simple,1,1,2,False,False,Irrelevant request for an artist URI; ignores the user's distress.
+g126,historical,4,3,3,True,True,"Polite and acknowledges feedback, though less helpful than R1."
+g126,agent,3,3,4,True,True,Appropriate escalation for a sensitive issue that requires account-specific support.
+g127,simple,5,5,5,True,True,ok
+g127,trivial,1,1,3,False,False,Unnecessary escalation to DM for a feature request.
+g127,historical,5,5,5,True,True,ok
+g127,agent_noretrieval,5,5,5,True,True,ok
+g127,agent,5,5,5,True,True,ok
+g128,trivial,5,1,3,False,False,Unnecessary escalation to DM for a feature request.
+g128,agent_noretrieval,5,5,5,True,True,ok
+g128,historical,5,5,5,True,True,ok
+g128,simple,5,4,5,True,True,ok
+g128,agent,5,4,5,True,True,ok
+g129,simple,5,4,5,True,True,Appropriate escalation for account-specific billing issue.
+g129,agent_noretrieval,5,4,5,True,True,Appropriate escalation for account-specific billing issue.
+g129,historical,4,3,4,True,False,Asking for email addresses is less secure than asking for charge details.
+g129,trivial,2,1,4,True,False,Ignores that the user explicitly stated they do not have an account.
+g129,agent,5,5,5,True,True,"Good escalation; requests specific, non-sensitive info to identify the charge."
+g130,agent,5,5,5,True,True,ok
+g130,historical,5,5,5,True,True,ok
+g130,trivial,5,3,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g130,simple,1,1,2,False,False,Irrelevant response to the customer's technical issue.
+g130,agent_noretrieval,5,5,5,True,True,ok
+g131,simple,5,3,5,True,True,ok
+g131,historical,5,4,5,True,True,ok
+g131,agent_noretrieval,5,5,5,True,True,ok
+g131,agent,5,4,5,True,True,ok
+g131,trivial,1,1,3,False,False,Unnecessary escalation for a content request; asks for personal data.
+g132,simple,3,2,3,False,False,Unnecessary escalation to DM for a general feature question.
+g132,trivial,3,2,3,False,False,Unnecessary escalation to DM for a general feature question.
+g132,agent,5,4,5,True,True,ok
+g132,historical,4,4,4,True,True,ok
+g132,agent_noretrieval,5,5,5,True,True,ok
+g133,agent,5,3,5,True,True,ok
+g133,historical,3,2,4,True,False,Confusing request to send an invite.
+g133,agent_noretrieval,4,3,4,True,True,ok
+g133,trivial,3,1,3,False,False,Escalation not needed for a joke tweet.
+g133,simple,3,1,3,False,False,Escalation not needed for a joke tweet.
+g134,agent,5,5,5,True,True,ok
+g134,trivial,5,5,5,True,True,ok
+g134,agent_noretrieval,5,5,5,True,True,ok
+g134,simple,5,5,5,True,True,ok
+g134,historical,3,3,3,False,False,Asking for bank statement screenshots is risky and unnecessary for account lookup.
+g135,historical,4,4,5,True,True,ok
+g135,agent,3,3,2,True,False,Contains a typo/garbage character at the end.
+g135,agent_noretrieval,5,5,5,True,True,ok
+g135,simple,4,4,5,True,True,ok
+g135,trivial,5,3,4,False,False,Should not ask for account details publicly.
+g136,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general content availability question.
+g136,simple,5,4,5,True,True,ok
+g136,agent,5,5,5,True,True,ok
+g136,agent_noretrieval,5,5,5,True,True,ok
+g136,historical,5,4,5,True,True,ok
+g137,simple,5,4,4,True,False,Fails to address the security risk of the user posting their email publicly.
+g137,historical,5,4,3,True,False,Tone is a bit robotic; misses the opportunity to be more empathetic.
+g137,agent_noretrieval,5,5,5,True,True,ok
+g137,agent,5,5,5,True,True,ok
+g137,trivial,5,4,4,True,False,Fails to address the security risk of the user posting their email publicly.
+g138,historical,5,2,4,False,False,Unnecessary escalation to DM for a general policy question.
+g138,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general policy question.
+g138,agent_noretrieval,4,5,5,True,True,ok
+g138,agent,4,5,5,True,True,ok
+g138,simple,3,2,4,True,False,Does not answer the user's specific question about timing.
+g139,historical,5,5,5,True,True,ok
+g139,trivial,5,5,5,True,True,ok
+g139,simple,5,5,5,True,True,ok
+g139,agent_noretrieval,5,5,4,True,True,ok
+g139,agent,5,5,5,True,True,ok
+g140,trivial,5,1,4,False,False,Unnecessary escalation to DM for a general feature question.
+g140,agent,5,5,5,True,True,ok
+g140,agent_noretrieval,5,5,5,True,True,ok
+g140,simple,3,1,4,True,False,Irrelevant; addresses Discover Weekly instead of the radio feature.
+g140,historical,5,4,5,True,True,ok
+g141,trivial,5,2,4,False,False,Escalation to DM is unnecessary for a general policy question.
+g141,agent,3,5,5,True,True,Accurate and helpful explanation of the download limit policy.
+g141,historical,2,4,4,True,False,"Contains outdated limit information (3,333 vs 10,000)."
+g141,agent_noretrieval,5,5,5,True,True,Correct and helpful information regarding current download limits.
+g141,simple,2,2,3,True,False,Vague and unhelpful; fails to provide the actual limit information.
+g142,trivial,5,4,5,True,True,Appropriate escalation for account-specific billing/subscription inquiry.
+g142,simple,3,3,4,True,False,Speculative claim about availability is not grounded.
+g142,agent,5,4,5,True,True,Empathetic and appropriate escalation.
+g142,agent_noretrieval,5,4,4,True,True,Clear and helpful escalation.
+g142,historical,5,4,5,True,True,Concise and appropriate escalation.
+g143,agent,5,5,5,True,True,ok
+g143,trivial,3,1,3,False,False,Unnecessary escalation for general feedback.
+g143,agent_noretrieval,5,5,5,True,True,ok
+g143,simple,1,1,1,False,False,Inappropriate response to a negative tweet; promises unauthorized gifts.
+g143,historical,4,5,4,True,True,ok
+g144,agent_noretrieval,5,5,5,True,True,ok
+g144,simple,3,3,4,True,False,"Asks for email publicly, which is a security risk."
+g144,historical,3,3,3,True,False,"Asks for email publicly, which is a security risk."
+g144,trivial,3,3,4,True,False,"Asks for email/username publicly, which is a security risk."
+g144,agent,5,5,5,True,True,ok
+g145,agent,5,5,5,True,True,ok
+g145,trivial,3,1,3,False,False,Unnecessary request for personal data for a general feature feedback question.
+g145,simple,3,3,4,True,False,"Assumes the issue is about a specific song, which is not clear."
+g145,agent_noretrieval,5,5,5,True,True,ok
+g145,historical,5,5,4,True,True,Appropriate clarifying questions for a vague report.
+g146,simple,5,5,5,True,True,ok
+g146,agent,5,5,5,True,True,ok
+g146,historical,1,3,3,False,False,Incorrect claim that Spotify cannot initiate DMs.
+g146,trivial,5,5,5,False,False,Do not ask for account details publicly.
+g146,agent_noretrieval,5,5,5,False,False,Do not ask for account details publicly.
+g147,simple,5,5,5,True,True,ok
+g147,trivial,5,5,5,True,True,ok
+g147,agent_noretrieval,5,5,4,True,True,ok
+g147,agent,5,5,5,True,True,ok
+g147,historical,5,5,5,True,True,ok
+g148,agent,5,5,5,True,True,ok
+g148,agent_noretrieval,5,5,5,True,True,ok
+g148,historical,5,5,5,True,True,ok
+g148,trivial,1,1,3,False,False,Unnecessary escalation; asks for personal data publicly.
+g148,simple,5,5,4,True,True,ok
+g149,simple,3,2,4,False,False,Asks for personal data publicly; billing info can be updated via web.
+g149,historical,4,2,4,False,False,Unnecessary DM request for a general how-to question.
+g149,agent,5,5,5,True,True,ok
+g149,trivial,3,1,4,False,False,Unnecessary DM request; ignores the actual question.
+g149,agent_noretrieval,4,3,4,False,False,Unnecessary DM request for billing help.
+g150,trivial,5,3,5,True,True,ok
+g150,simple,5,3,5,True,True,ok
+g150,historical,1,1,3,False,False,Lies about having already sent a DM.
+g150,agent_noretrieval,5,5,5,True,True,ok
+g150,agent,5,5,5,True,True,ok
+g151,simple,5,5,5,True,True,ok
+g151,agent,5,5,5,True,True,ok
+g151,trivial,5,5,5,True,True,ok
+g151,historical,5,5,5,True,True,Uses wrong name for customer.
+g151,agent_noretrieval,5,5,5,True,True,ok
+g152,historical,5,5,5,True,True,ok
+g152,simple,5,5,5,True,True,ok
+g152,agent_noretrieval,5,5,5,True,True,ok
+g152,trivial,5,5,5,True,True,ok
+g152,agent,5,5,5,True,True,ok
+g153,trivial,5,2,4,False,False,Unnecessary escalation to DM for a simple how-to question.
+g153,agent,5,5,5,True,True,ok
+g153,simple,1,1,3,False,False,Irrelevant response; ignores the customer's actual complaint.
+g153,agent_noretrieval,5,5,5,True,True,ok
+g153,historical,5,2,4,False,False,Unnecessary escalation to DM for a simple how-to question.
+g154,agent,5,5,5,True,True,ok
+g154,agent_noretrieval,5,5,5,True,True,ok
+g154,historical,5,5,5,True,True,ok
+g154,trivial,5,5,5,True,True,ok
+g154,simple,5,5,5,True,True,ok
+g155,trivial,5,5,5,True,True,ok
+g155,agent_noretrieval,5,5,5,True,True,ok
+g155,agent,5,5,5,True,True,ok
+g155,historical,5,5,5,True,True,ok
+g155,simple,5,5,5,True,True,ok
+g156,historical,5,3,4,True,True,ok
+g156,trivial,5,1,3,False,False,Unnecessary escalation for a positive feedback tweet.
+g156,agent_noretrieval,5,5,5,True,True,ok
+g156,agent,5,4,5,True,True,ok
+g156,simple,3,1,3,False,False,Unnecessary escalation for a positive feedback tweet.
+g157,historical,5,5,5,True,True,ok
+g157,agent,5,5,5,True,True,ok
+g157,trivial,5,3,4,False,False,Escalation to DM is unnecessary for general troubleshooting.
+g157,simple,1,1,3,True,False,Ignores the user's issue entirely.
+g157,agent_noretrieval,5,5,5,True,True,ok
+g158,agent,5,5,5,True,True,ok
+g158,trivial,1,1,3,False,False,Unnecessary escalation to DM for a general content availability question.
+g158,simple,5,5,5,True,True,ok
+g158,historical,3,4,3,True,False,Vague promise about release; tone is slightly less natural than R1.
+g158,agent_noretrieval,5,4,5,True,True,ok
+g159,trivial,5,1,4,False,False,Escalation to DM is unnecessary for general troubleshooting.
+g159,historical,5,5,5,True,True,ok
+g159,simple,5,5,5,True,True,ok
+g159,agent_noretrieval,5,3,5,True,True,Acknowledges feedback but misses the opportunity to troubleshoot the technical issues.
+g159,agent,5,5,5,True,True,ok
+g160,agent,5,5,5,True,True,ok
+g160,historical,5,4,5,True,True,ok
+g160,simple,3,2,3,True,False,Vague and does not address the specific feedback about Christmas radio availability.
+g160,trivial,5,1,4,False,False,Unnecessary escalation to DM for simple feature feedback.
+g160,agent_noretrieval,5,5,5,True,True,ok
+g161,historical,5,5,5,True,True,ok
+g161,trivial,5,5,5,True,True,ok
+g161,agent,5,5,5,True,True,ok
+g161,simple,1,1,3,False,False,Assumes a DM conversation exists when none is mentioned.
+g161,agent_noretrieval,5,5,5,True,True,ok
+g162,agent_noretrieval,5,5,5,True,True,ok
+g162,historical,5,5,5,True,True,ok
+g162,simple,3,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g162,agent,5,5,5,True,True,ok
+g162,trivial,3,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g163,historical,5,5,5,True,True,ok
+g163,agent,5,5,5,True,True,ok
+g163,simple,5,5,4,True,True,ok
+g163,trivial,1,1,3,False,False,Unnecessary escalation to DM for a general availability question.
+g163,agent_noretrieval,1,1,5,True,False,Factually incorrect; Spotify is not available in South Africa.
+g164,historical,5,4,5,True,True,ok
+g164,agent_noretrieval,5,5,5,True,True,ok
+g164,simple,5,4,5,True,True,ok
+g164,trivial,1,1,3,False,False,Unnecessary escalation for a general content availability question.
+g164,agent,5,4,5,True,True,ok
+g165,agent_noretrieval,5,5,5,True,True,ok
+g165,simple,1,1,3,False,False,Ignores the account recovery request and provides irrelevant feedback response.
+g165,trivial,5,5,5,True,True,ok
+g165,historical,3,3,4,True,True,ok
+g165,agent,3,5,5,True,True,ok
+g166,trivial,5,3,4,True,True,ok
+g166,simple,5,3,4,True,True,ok
+g166,historical,5,3,4,True,True,ok
+g166,agent,5,3,4,True,True,ok
+g166,agent_noretrieval,5,5,5,True,True,ok
+g167,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g167,agent,5,5,5,True,True,ok
+g167,simple,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g167,agent_noretrieval,5,4,5,False,False,Requesting DM for device info is unnecessary; should be handled publicly.
+g167,historical,1,1,4,True,False,Invents that the issue is fixed without any troubleshooting.
+g168,simple,5,3,4,True,True,ok
+g168,agent_noretrieval,5,4,5,True,True,ok
+g168,trivial,5,4,4,True,True,ok
+g168,historical,5,5,5,True,True,ok
+g168,agent,5,4,4,True,True,ok
+g169,simple,5,5,5,True,True,ok
+g169,agent_noretrieval,5,5,5,True,True,ok
+g169,trivial,5,5,5,True,True,ok
+g169,historical,1,1,3,False,False,Claims to have sent a DM without prior interaction.
+g169,agent,5,5,5,True,True,ok
+g170,historical,3,2,4,False,False,Assumes a DM conversation exists without evidence.
+g170,trivial,4,4,4,True,True,Appropriate escalation for account-specific data migration.
+g170,agent,4,5,4,True,True,"Clear, helpful, and correctly identifies the need for account-specific support."
+g170,agent_noretrieval,4,4,4,True,True,Good tone and correctly routes to DM for account-specific help.
+g170,simple,4,4,4,True,True,Concise and helpful request for necessary account information.
+g171,agent_noretrieval,5,5,5,True,True,ok
+g171,simple,3,1,4,False,False,Customer already stated account was stolen; asking what is happening is unhelpful.
+g171,agent,5,5,5,True,True,ok
+g171,trivial,5,5,5,True,True,ok
+g171,historical,3,2,4,False,False,Account recovery requires human intervention; link is insufficient for stolen account.
+g172,trivial,1,1,3,False,False,Unnecessary request for DM for a feature request.
+g172,agent,5,5,5,True,True,ok
+g172,simple,5,5,5,True,True,ok
+g172,agent_noretrieval,5,5,5,True,True,ok
+g172,historical,5,3,5,True,False,Helpful but misses the opportunity to direct user to the Community board.
+g173,historical,5,5,5,True,True,ok
+g173,agent_noretrieval,5,5,4,True,True,ok
+g173,simple,3,1,3,False,False,Ignores the security risk of the public email address.
+g173,trivial,3,3,4,False,False,Ignores the security risk of the public email address.
+g173,agent,5,5,5,True,True,ok
+g174,historical,5,5,5,True,True,Correctly identifies security risk and provides safe path for account-specific issue.
+g174,simple,5,1,3,False,False,Completely ignores the user's billing issue.
+g174,agent,5,5,5,True,True,Addresses security risk and offers appropriate escalation path.
+g174,trivial,5,4,4,True,False,Fails to advise the user to delete the tweet containing personal info.
+g174,agent_noretrieval,5,5,5,True,True,"Addresses the billing issue, security risk, and provides clear next steps."
+g175,historical,5,5,5,True,True,ok
+g175,simple,5,5,5,True,True,ok
+g175,agent_noretrieval,5,5,5,True,True,ok
+g175,trivial,5,5,5,True,True,ok
+g175,agent,5,5,5,True,True,ok
+g176,simple,3,2,4,False,False,Does not address the security concern; suggests public email support.
+g176,trivial,4,4,4,True,True,Appropriate escalation for a potential security/account issue.
+g176,historical,4,4,4,True,True,"Appropriate escalation, though name is incorrect (customer did not provide name)."
+g176,agent_noretrieval,5,5,5,True,True,"Clear, secure, and addresses the urgency of the security concern."
+g176,agent,4,4,4,True,True,Appropriate escalation for a security concern.
+g177,agent_noretrieval,5,5,5,True,True,ok
+g177,trivial,5,3,4,False,False,Escalation to DM is unnecessary for general troubleshooting.
+g177,simple,3,1,3,True,False,Does not address the user's technical issue.
+g177,agent,5,5,5,True,True,ok
+g177,historical,1,1,3,True,False,Invents facts about the user's specific situation.
+g178,trivial,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g178,historical,5,2,4,False,False,Unnecessary escalation to DM for a general troubleshooting issue.
+g178,simple,5,1,4,True,False,Irrelevant troubleshooting steps; ignores the connection issue described.
+g178,agent,5,5,5,True,True,ok
+g178,agent_noretrieval,5,5,5,True,True,ok
+g179,historical,5,5,5,True,True,ok
+g179,agent,5,5,5,True,True,ok
+g179,simple,1,1,2,False,False,Incorrect diagnosis; ignores potential account compromise.
+g179,agent_noretrieval,5,5,5,True,True,ok
+g179,trivial,5,5,5,True,True,ok
+g180,agent,5,5,5,True,True,ok
+g180,historical,1,1,3,False,False,Assumes a DM conversation that has not happened yet.
+g180,simple,5,4,4,True,True,ok
+g180,trivial,5,5,5,True,True,ok
+g180,agent_noretrieval,5,5,5,True,True,ok
+g181,trivial,5,5,5,True,True,ok
+g181,historical,1,1,3,False,False,Assumes a DM conversation exists that hasn't happened yet.
+g181,agent_noretrieval,5,5,5,True,True,ok
+g181,simple,5,5,5,True,True,ok
+g181,agent,5,5,5,True,True,ok
+g182,historical,5,5,5,True,True,ok
+g182,trivial,5,5,5,True,True,ok
+g182,agent,5,5,5,True,True,ok
+g182,simple,5,5,5,True,True,ok
+g182,agent_noretrieval,5,5,5,True,True,ok
+g183,agent_noretrieval,5,5,5,True,True,ok
+g183,agent,5,5,5,True,True,ok
+g183,trivial,5,5,5,True,True,ok
+g183,historical,3,2,4,False,False,Customer already tried troubleshooting; ignoring this makes the reply unhelpful.
+g183,simple,5,5,5,True,True,ok
+g184,agent,5,5,5,True,True,ok
+g184,agent_noretrieval,5,5,5,True,True,ok
+g184,simple,2,1,3,False,False,Ignores the specific payment/subscription error described by the user.
+g184,trivial,5,5,5,True,True,ok
+g184,historical,5,5,5,True,True,ok
+g185,historical,5,5,5,True,True,ok
+g185,trivial,3,1,3,False,False,Unnecessary escalation for a general policy question.
+g185,simple,3,1,3,False,False,Unnecessary escalation and requests personal data.
+g185,agent,5,5,5,True,True,ok
+g185,agent_noretrieval,5,5,5,True,True,ok
+g186,simple,1,1,3,False,False,Irrelevant response; invents payment details not requested by the user.
+g186,trivial,3,3,4,False,False,Escalation to DM is unnecessary for a general site status report.
+g186,agent_noretrieval,5,5,5,True,True,ok
+g186,agent,3,4,5,True,True,ok
+g186,historical,4,5,5,True,True,ok
+g187,agent,5,5,5,True,True,ok
+g187,historical,5,5,5,True,True,ok
+g187,agent_noretrieval,5,4,5,True,True,ok
+g187,trivial,3,2,3,False,False,Do not ask for account details publicly.
+g187,simple,3,1,4,False,False,Ignores the customer's context about waiting for a DM reply.
+g188,agent_noretrieval,5,5,5,True,True,ok
+g188,trivial,3,3,4,False,False,Asking for account details in DM is premature for an unknown issue.
+g188,historical,5,4,4,True,True,ok
+g188,agent,5,5,5,True,True,ok
+g188,simple,3,1,3,True,False,Assumes the issue is about university availability without evidence.
+g189,agent,5,3,5,False,False,"Account changes should be handled via DM, but this is a general how-to question."
+g189,historical,5,3,5,False,False,"Account changes should be handled via DM, but this is a general how-to question."
+g189,agent_noretrieval,5,3,5,False,False,"Account changes should be handled via DM, but this is a general how-to question."
+g189,simple,3,3,4,True,True,ok
+g189,trivial,5,3,5,False,False,"Account changes should be handled via DM, but this is a general how-to question."
+g190,simple,3,3,3,True,False,Asking for other family members' emails is unnecessary and potentially invasive.
+g190,trivial,4,4,4,True,True,Appropriate escalation for a refund request.
+g190,agent_noretrieval,4,4,4,True,True,"Clear, helpful, and follows escalation policy for billing issues."
+g190,historical,2,2,3,True,False,Vague; does not confirm if a DM was actually sent or explain why.
+g190,agent,4,4,4,True,True,Professional and correctly routes the billing inquiry to DM.
+g191,simple,5,3,5,True,True,Good clarifying question for a technical issue.
+g191,historical,5,3,5,True,True,Standard troubleshooting request for technical issues.
+g191,agent_noretrieval,5,5,5,True,True,Provides helpful troubleshooting steps immediately.
+g191,trivial,1,1,3,False,False,Asking for account details publicly is a security risk.
+g191,agent,5,5,5,True,True,"Helpful, concise, and provides immediate troubleshooting."
+g192,agent_noretrieval,5,5,5,True,True,ok
+g192,historical,5,5,5,True,True,ok
+g192,simple,5,5,5,True,True,ok
+g192,trivial,5,5,5,True,True,ok
+g192,agent,5,5,5,True,True,ok
+g193,agent,5,5,5,True,True,ok
+g193,trivial,3,1,3,False,False,Unnecessary escalation for a general pricing question.
+g193,simple,3,1,3,False,False,Unnecessary escalation for a general pricing question.
+g193,agent_noretrieval,5,5,5,True,True,ok
+g193,historical,3,1,3,False,False,Unnecessary escalation for a general pricing question.
+g194,agent,5,5,5,True,True,ok
+g194,simple,5,5,5,True,True,ok
+g194,trivial,5,2,3,False,False,Do not ask for account details publicly.
+g194,agent_noretrieval,5,5,5,True,True,ok
+g194,historical,5,5,5,True,True,ok
+g195,agent_noretrieval,5,5,5,True,True,ok
+g195,trivial,3,2,3,False,False,Unnecessary escalation to DM for a content metadata issue.
+g195,agent,4,4,5,True,True,ok
+g195,historical,3,3,3,True,False,Too many questions; customer already explained the issue clearly.
+g195,simple,3,2,3,True,False,Vague and unhelpful regarding the specific metadata error reported.
+g196,historical,5,5,5,True,True,ok
+g196,agent,5,5,5,True,True,ok
+g196,trivial,5,3,4,False,False,Escalation to DM is unnecessary for a general inquiry about phone support.
+g196,agent_noretrieval,5,5,5,True,True,ok
+g196,simple,5,5,5,True,True,ok
+g197,simple,5,4,5,True,True,ok
+g197,agent_noretrieval,5,5,5,True,True,ok
+g197,trivial,5,1,3,False,False,Unnecessary escalation to DM for a general content availability question.
+g197,historical,2,3,4,True,False,Vague promise about availability; lacks professional clarity.
+g197,agent,5,5,5,True,True,ok
+g198,simple,5,5,5,True,True,ok
+g198,trivial,5,5,5,True,True,ok
+g198,historical,5,5,5,True,True,ok
+g198,agent,5,5,5,True,True,ok
+g198,agent_noretrieval,5,5,5,True,True,ok
+g199,agent,5,5,5,True,True,ok
+g199,trivial,5,1,4,False,False,Escalation not needed for feature feedback; do not ask for account details.
+g199,agent_noretrieval,5,5,5,True,True,ok
+g199,simple,5,4,5,True,True,ok
+g199,historical,5,4,5,True,False,Customer name not provided in tweet; do not invent names.

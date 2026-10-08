@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about the release timing of a specific feature/playlist, which is handled via auto-reply without needing account access or escalation.",
+ "reply": "Hey there! We don't have any info on this right now, but we'll be sure to let the right team know it's something you're excited to see 🙂"
+}

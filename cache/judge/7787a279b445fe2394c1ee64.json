@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok. Asks for DM for account-specific issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok. Acknowledges issue and asks for DM for account-specific problem."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok. Asks for DM for account-specific issue."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok. Asks for DM for account-specific issue."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Addresses security risk of public transaction details, then asks for DM."
+  }
+ ]
+}

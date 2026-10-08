@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Fixing a family plan address and member reauthorization issue requires account-specific backend action that cannot be done publicly.",
+ "reply": "Hey there! Sorry to hear that. Can you DM us your account email address and details? We'll take a look backstage to get your family back on track."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is inquiring about a charge and verification of their student discount rate, which requires account-specific action and cannot be resolved publicly.",
+ "reply": "Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage for you."
+}

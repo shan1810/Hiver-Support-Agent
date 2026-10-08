@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Family account membership issues and address changes require account-specific backend intervention by a human agent.",
+ "reply": "Hey there! We want to help get your family back on the same track. Please send us a DM with the email on your account so we can take a closer look at this for you!"
+}

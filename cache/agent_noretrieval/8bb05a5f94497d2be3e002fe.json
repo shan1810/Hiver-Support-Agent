@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking how to update their payment method to prevent service interruption, which can be handled with standard self-service instructions.",
+ "reply": "Hey there! You can easily update your payment method by logging into your account page on our website and heading to your Account Overview. We've got your back so the music keeps playing!"
+}

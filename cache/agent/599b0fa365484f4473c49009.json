@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer needs help with account login issues, which requires account-specific investigation by a human agent in DMs.",
+ "reply": "Hi there! Help's here. Could you send us a DM with your account's email address or username? We'll take a look backstage."
+}

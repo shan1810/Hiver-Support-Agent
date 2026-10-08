@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a technical issue with music disappearing, which can be addressed with standard troubleshooting steps.",
+ "reply": "Hey there! Sorry to hear that! Check out the troubleshooting steps for missing content at [link: Spotify Support] to get things back on track."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a billing cancellation and a refund, which requires account-specific action from a human agent via DM.",
+ "reply": "Hey there, help's here! Could you DM us your account's email address? We'll take a look backstage and see what we can suggest."
+}

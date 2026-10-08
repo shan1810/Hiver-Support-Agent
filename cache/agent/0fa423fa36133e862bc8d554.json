@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific recovery action is needed since the customer cannot find their email or password, requiring a human agent.",
+ "reply": "Hey there! Can you DM us any usernames or email addresses that may have been used when creating the account? We'll take a look 🔍"
+}

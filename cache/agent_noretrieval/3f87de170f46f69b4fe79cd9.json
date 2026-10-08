@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is following up on a direct message, requiring a human agent to check the DM queue and assist with their account.",
+ "reply": "Hey there! Thanks for following up. Our DMs can get a bit crowded, but we'll loop back to yours as soon as possible. Hang tight!"
+}

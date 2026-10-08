@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account access issues require human intervention and account-specific lookup that a public reply cannot perform.",
+ "reply": "Hey there! We'd love to help get you back into your account. Please send us a DM with the email linked to your account and a bit more detail on what's happening so we can take a closer look."
+}

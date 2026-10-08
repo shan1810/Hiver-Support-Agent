@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Ignores the 'how-to' question, treats it only as feedback."
+  },
+  {
+   "rid": "R2",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Invents customer name 'Jen'; ignores the 'how-to' question."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for DM for a simple how-to question, which is not allowed."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Directly answers the customer's how-to question publicly."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for account details for a simple how-to question, which is not allowed."
+  }
+ ]
+}

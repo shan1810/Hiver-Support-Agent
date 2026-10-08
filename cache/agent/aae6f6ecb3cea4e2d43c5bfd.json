@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking why a specific album is missing, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! Jay Z's 4:44 isn't currently available on Spotify. We’ll have it available to you as soon as it’s available to us 🙂"
+}

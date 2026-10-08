@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet asks about market availability in India, which falls under the 'other' intent and can be auto-handled without escalation.",
+ "reply": "Hey there! We love the enthusiasm and are always looking to bring Spotify to new places. Keep an eye on our official channels for any expansion news!"
+}

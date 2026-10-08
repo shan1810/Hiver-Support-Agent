@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asking for account details for a job inquiry is inappropriate and unnecessary."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R4",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Uses a name not provided in the tweet; generic response."
+  },
+  {
+   "rid": "R5",
+   "grounded": 1,
+   "helpful": 3,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Implies they are hired, which is misleading."
+  }
+ ]
+}

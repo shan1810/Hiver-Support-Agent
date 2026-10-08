@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Hacked accounts require direct human intervention, not just a link."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Hacked accounts require direct human intervention, not just a link."
+  }
+ ]
+}

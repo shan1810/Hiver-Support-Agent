@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies SheerID and escalates for account-specific verification."
+  },
+  {
+   "rid": "R2",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good, though assumes the user's name is Jason."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Helpful and appropriate escalation for account-specific troubleshooting."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear and concise escalation."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Standard, effective escalation."
+  }
+ ]
+}

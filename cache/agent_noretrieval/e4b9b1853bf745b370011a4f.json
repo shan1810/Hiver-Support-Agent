@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user is following up on a direct message regarding an account-specific username issue that requires human support to resolve.",
+ "reply": "Hey there! Thanks for reaching out via DM. Our team will get back to you there shortly to help get your username sorted out!"
+}

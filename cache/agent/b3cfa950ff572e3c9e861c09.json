@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "none",
+ "reason": "The user is following up on a direct message regarding an ongoing support issue.",
+ "reply": "We just sent you a bit more info over DM. We'll carry on helping out there \u0001f642"
+}

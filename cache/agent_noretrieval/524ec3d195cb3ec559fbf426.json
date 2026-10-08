@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is reporting a specific billing and account issue regarding a paused subscription despite payment, which requires a human agent to look up account details and fix.",
+ "reply": "Hey there! We'd love to take a closer look at this payment hiccup for you. Shoot us a DM with your account email and we'll get this sorted backstage!"
+}

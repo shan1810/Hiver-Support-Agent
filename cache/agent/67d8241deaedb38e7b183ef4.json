@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a refund and account-specific billing review that requires human intervention.",
+ "reply": "Hey there! We can certainly take a look at your billing and refund options backstage. Could you DM us your account's email address or username?"
+}

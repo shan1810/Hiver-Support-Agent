@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E4",
+ "reason": "The tweet is not in English, which triggers the E4 escalation policy.",
+ "reply": "Hey there! We can help with your Premium status and playback. Please send us a DM with the email linked to your account and proof of payment so our team can take a closer look."
+}

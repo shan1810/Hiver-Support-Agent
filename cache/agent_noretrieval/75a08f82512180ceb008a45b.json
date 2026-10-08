@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about an offline download limit, which is a known product feature and technical mechanism that can be handled without escalation.",
+ "reply": "Hey there! You can download up to 10,000 tracks per device on up to 5 different devices. Check out our support site for more details on offline limits!"
+}

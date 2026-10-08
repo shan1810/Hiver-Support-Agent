@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking a general billing question about how switching from a monthly to a yearly subscription works, which can be answered without account-specific access or escalation.",
+ "reply": "Hey there! The yearly subscription usually starts right away, and any remaining time from your current monthly period is typically added on top. Hope that helps!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific billing actions and subscription cancellation issues require a human agent to review and resolve in the backend.",
+ "reply": "Hey there! We can certainly help look into this billing and subscription issue. Please slide into our DMs with your account details so our crew can sort this out for you!"
+}

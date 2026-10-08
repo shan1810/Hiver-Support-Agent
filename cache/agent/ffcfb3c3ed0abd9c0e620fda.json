@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer is complaining about previous support failure and the frustration of contacting support.",
+ "reply": "Hey there, we're sorry about the frustration! Could you DM us your account info and details? We want to get this sorted for you."
+}

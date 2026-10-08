@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "Market-launch questions are categorized as other and can be auto-handled since no account access, security action, or non-English language is involved.",
+ "reply": "Hey there! We don't have any launch details to share for Romania just yet, but stay tuned to our social channels for the latest updates!"
+}

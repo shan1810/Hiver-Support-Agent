@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "Family plan member limits are fixed at a maximum of 6 total accounts, so this can be answered directly without escalation.",
+ "reply": "Hey there! Premium Family supports a maximum of 6 accounts living at the same address, so we don't offer an option to add members beyond that limit. Let us know if you need any other help!"
+}

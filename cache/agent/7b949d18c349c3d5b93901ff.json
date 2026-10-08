@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is experiencing unexpected billing issues and needs account-specific investigation into payments and subscription status that cannot be resolved publicly.",
+ "reply": "Hey there! We'd love to help sort this out backstage. Could you slide into our DMs with the email address linked to your account? We'll take a closer look."
+}

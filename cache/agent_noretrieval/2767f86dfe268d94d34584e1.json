@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about a billing offer and how to find the sign-up link, which is a general inquiry that can be auto-handled.",
+ "reply": "Hey there! We'd love to help you catch that offer—check out [link: Spotify Offers] for all current deals and links to join. Let us know if you still need a hand!"
+}

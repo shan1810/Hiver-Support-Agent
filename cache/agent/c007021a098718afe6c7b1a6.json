@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is having trouble logging into their account and needs assistance that requires backend account-specific action.",
+ "reply": "Hey there, help's here! Could you send us a DM with your account's username or email address? We'll take a look backstage."
+}

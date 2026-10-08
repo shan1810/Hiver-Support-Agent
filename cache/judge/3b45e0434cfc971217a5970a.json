@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies potential security issue and requests DM for account-specific investigation."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Vague; does not acknowledge the specific issue mentioned by the user."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for potential account compromise."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good tone and appropriate escalation for account security concerns."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate tone and escalation for potential account security issue."
+  }
+ ]
+}

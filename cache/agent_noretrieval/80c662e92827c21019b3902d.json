@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about why a specific movie soundtrack or album (Annie) is missing, which is a content availability question that can be auto-handled.",
+ "reply": "Hi there! Music and podcast availability can vary due to licensing rights, but we're always working to add more to our catalog. We've passed along your request for the Annie original soundtrack!"
+}

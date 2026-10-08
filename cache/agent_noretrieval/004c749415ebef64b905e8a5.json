@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking a general how-to question about gifting a Family plan, which can be answered without account access or human intervention.",
+ "reply": "Hey there! You can't buy a direct gift card for a Family plan, but you can gift standard Spotify gift cards that they can put toward their own subscription! Check out [link: Spotify Support] for all the details."
+}

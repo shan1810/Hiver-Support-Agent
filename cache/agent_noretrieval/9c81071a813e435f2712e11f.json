@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet asks about the availability of specific content, which can be addressed publicly without human escalation.",
+ "reply": "Hey there! Content availability depends on licensing and agreements with rights holders, so it can vary by region and time. We're always adding more, so hopefully it'll be on backstage soon!"
+}

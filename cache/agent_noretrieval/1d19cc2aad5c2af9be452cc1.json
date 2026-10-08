@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a vague 'check my DM' nudge asking support to message them without providing details, which falls under the other intent and can be auto-handled.",
+ "reply": "Hey there! Slide into our DMs with the details on your artist issue and we'll get right on it!"
+}

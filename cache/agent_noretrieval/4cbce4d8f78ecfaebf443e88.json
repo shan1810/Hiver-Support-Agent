@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a refund for accidental charges, which requires human account-specific intervention.",
+ "reply": "Hey there! We'd love to take a closer look at this charge and help you out. Please shoot us a DM with your account details so we can check on a refund!"
+}

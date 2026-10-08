@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Student discount profile verification issues require account-specific data lookup and fixing, which must be handled via DM.",
+ "reply": "Hey there! Could you send us a DM with your account email and the details you're using? We'll take a look backstage to help get you sorted."
+}

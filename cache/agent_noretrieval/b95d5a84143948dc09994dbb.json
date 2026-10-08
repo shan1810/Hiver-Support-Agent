@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a bug report regarding the app interface stuck on a specific song, which can be auto-handled with standard troubleshooting steps.",
+ "reply": "Hey there! That definitely sounds like a bug. Try restarting your device and doing a clean reinstall of the app to help get your lock screen back on track. Let us know how it goes!"
+}

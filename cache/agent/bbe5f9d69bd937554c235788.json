@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a standard technical playback issue with a specific device (Chromecast), which can be auto-handled with troubleshooting steps.",
+ "reply": "Hey there! Help's here. Try restarting your Chromecast and router, and make sure your Spotify app is fully updated. Keep rocking 🤘"
+}

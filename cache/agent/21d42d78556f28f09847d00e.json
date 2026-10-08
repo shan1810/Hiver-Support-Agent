@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking a how-to question about playback functionality on Android which can be auto-handled with standard troubleshooting without needing account access.",
+ "reply": "Hey there! You can control volume using device settings or external controls, but to play audio simultaneously with other apps, check out our audio mixing settings on Android. Let us know if you need more help!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific action is needed to help reset the password and restore access, which cannot be resolved publicly.",
+ "reply": "Hey there! Let's get you back on stage. Send us a DM with the email address linked to your account and our team can take a closer look."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Unknown activity in the feed indicates a potential account security issue that requires human agent assistance.",
+ "reply": "Hey there! That sounds super weird. Could you shoot us a DM with your account details so we can take a closer look at this for you?"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "medium",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user needs account-specific help with claiming or accessing an artist profile, which requires a human support agent to look into account data.",
+ "reply": "Hey there! We can certainly help you get sorted with your artist profile. Send us a DM with the email linked to your account and we'll take a backstage look for you."
+}

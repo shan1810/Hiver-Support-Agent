@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a multi-month refund for an account, which requires human intervention and account-specific lookup.",
+ "reply": "Hey there! We can certainly take a look at your billing history and refund request. Please slide into our DMs with your account details so our support crew can help you out."
+}

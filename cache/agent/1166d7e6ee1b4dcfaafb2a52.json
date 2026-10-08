@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer was charged incorrectly and requires account-specific billing intervention which can only be done via DM.",
+ "reply": "Hey there! Help's here. Can you DM us your account's email address or username? We'll check backstage and help sort this out."
+}

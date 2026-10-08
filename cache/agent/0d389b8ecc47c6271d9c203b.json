@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is general praise about support itself without any specific issue to act on.",
+ "reply": "No worries! If you ever need anything else, just shout and we'll come running 🏃"
+}

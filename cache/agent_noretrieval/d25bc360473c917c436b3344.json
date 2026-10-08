@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The account was hacked, which requires security escalation and a DM hand-off to secure the account.",
+ "reply": "Hey there! We want to help get your account back in your control ASAP. Please shoot us a DM so our support crew can assist you further."
+}

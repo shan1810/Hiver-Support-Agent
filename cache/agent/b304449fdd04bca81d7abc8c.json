@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer reports that their account was hacked, which requires security intervention and DM support.",
+ "reply": "Hey there! We're here to help. Can you DM us your account's email address? We'll take a look under the hood."
+}

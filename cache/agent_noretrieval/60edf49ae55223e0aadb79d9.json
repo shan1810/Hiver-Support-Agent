@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific plan verification issue requires a human agent to check student details and resolve the membership error.",
+ "reply": "Hey there! That usually means your profile info doesn't match SheerID's verification requirements. Shoot us a DM with the email on your account so we can take a closer look backstage!"
+}

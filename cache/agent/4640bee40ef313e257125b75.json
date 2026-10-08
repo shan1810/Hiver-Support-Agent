@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "Escalated because the customer reports a recurring technical issue happening for the third time and states previous troubleshooting failed, which triggers the high-risk frustration criteria.",
+ "reply": "Hey there! We're sorry this keeps happening with your library. Help's here—can you DM us your account's email address so we can take a closer look backstage?"
+}

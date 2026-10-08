@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer reported a hacked account and publicly shared an email address, requiring security escalation and immediate deletion of the personal data.",
+ "reply": "Hey there! We want to help get your account back safely. Please send us a DM with your username and original email. Also, consider deleting this tweet since it includes your email address!"
+}

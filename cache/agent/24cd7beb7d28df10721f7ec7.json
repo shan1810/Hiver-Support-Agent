@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "Market-launch question which can be auto-handled using standard messaging without requiring personal account access or security intervention.",
+ "reply": "Hey! We don't have any info on this, but we're working hard on bringing Spotify to all countries around the world! Give us a shout if you have any other questions."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer publicly shared their email address, requiring escalation for security and prompting a DM.",
+ "reply": "Hey there! Thanks for reaching out. Please send us a DM with your account details so we can help sort out the Family plan address issue. Also, please delete this tweet as it contains your personal email for your own security!"
+}

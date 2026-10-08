@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is asking to prevent a cancellation due to payment failure, which requires account-specific billing assistance.",
+ "reply": "Hey there! We don't want you to lose your tunes. Send us a DM with your account email so our support crew can take a look behind the backstage!"
+}

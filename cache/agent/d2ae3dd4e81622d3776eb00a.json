@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing a technical playback bug on their iPhone and has tried standard troubleshooting steps, so we can auto-handle by asking for device details.",
+ "reply": "Hey there! Sorry that's happening. Could you let us know your exact iPhone model and iOS version, plus your Spotify app version? We're on it!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is requesting a new product feature, which can be auto-handled by pointing them to the Spotify Community ideas board.",
+ "reply": "Hey there! We love the dedication to Frank Zappa. While we can't build custom snippet playlists right now, you can share this idea on [link: Spotify Community ideas board] for other fans to back!"
+}

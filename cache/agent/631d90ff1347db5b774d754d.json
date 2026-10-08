@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "medium",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is noting that content is now available on Spotify, which does not require escalation or account action.",
+ "reply": "Hey there! That's music to our ears! Enjoy streaming."
+}

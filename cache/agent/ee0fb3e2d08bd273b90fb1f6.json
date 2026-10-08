@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking a general question about family plan limits, which can be auto-handled without account access or human intervention.",
+ "reply": "Hey there! Premium for Family allows you and up to 5 additional members living at the same address to join (total of 6 accounts). We don't support adding extra members beyond that. More info here: [link: Spotify Support family plans]"
+}

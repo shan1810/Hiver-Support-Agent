@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Family plan invite issues require account-specific troubleshooting in DMs that a public reply cannot handle.",
+ "reply": "Hey there! Help's here. Could you DM us your account's email address and your family plan manager's info so we can take a look under the hood? 🔍"
+}

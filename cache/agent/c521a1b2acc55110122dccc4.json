@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action is needed to check or update the registered family plan address.",
+ "reply": "Hey there! Could you DM us your account's username and email address? We'll take a look backstage to help sort out the family plan address."
+}

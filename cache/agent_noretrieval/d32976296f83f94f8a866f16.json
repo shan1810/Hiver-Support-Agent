@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about the release timing of a feature/content (Top Songs playlist) which can be answered without account access.",
+ "reply": "Hey there! We love that playlist too. Keep an eye on our socials and your app for updates on when your year in music drops!"
+}

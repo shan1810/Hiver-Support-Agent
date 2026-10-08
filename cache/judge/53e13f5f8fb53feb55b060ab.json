@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R3",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Claims DM sent, but might not be true; doesn't acknowledge specific issue."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Generic, doesn't acknowledge specific issue."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

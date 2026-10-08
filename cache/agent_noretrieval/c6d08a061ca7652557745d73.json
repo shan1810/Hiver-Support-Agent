@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific family plan address verification requires human intervention to check plan details.",
+ "reply": "Hey there! To check your address and sort out the invite issue for your family members, please shoot us a DM with your account details so we can take a closer look backstage."
+}

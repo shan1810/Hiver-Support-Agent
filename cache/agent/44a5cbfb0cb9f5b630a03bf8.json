@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about the availability of a specific instrumental version of a track, which can be auto-handled with standard content availability information.",
+ "reply": "Hi there! We can check on that track for you. Could you send us a link to the album? We'll take a look backstage."
+}

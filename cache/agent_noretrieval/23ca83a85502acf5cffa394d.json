@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about how switching to a yearly subscription affects their current billing cycle, which can be answered without account access.",
+ "reply": "Hey there! If you switch to the yearly plan, it typically starts right away and we'll apply the unused value of your current monthly payment toward the new plan. Drop by [link: Spotify Support] for all the details!"
+}

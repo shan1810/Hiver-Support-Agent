@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer's account is compromised and they publicly posted personal data (__email__), requiring a human security intervention and a request to delete the tweet.",
+ "reply": "Hey there! That's not cool. Please delete your tweet containing your email for your own privacy, then DM us your username so we can help you get back in."
+}

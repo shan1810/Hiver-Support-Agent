@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing investigation is required to trace and stop charges for someone without an account.",
+ "reply": "Hey there! We'd love to help sort this out. Could you DM us the first 6 and last 4 digits of your payment card, along with the date and amount you were last charged?"
+}

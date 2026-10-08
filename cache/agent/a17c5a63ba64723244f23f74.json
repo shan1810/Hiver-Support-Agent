@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a technical issue with missing features in their recommendations, which can be addressed with standard troubleshooting steps.",
+ "reply": "Hey there! Thanks for reaching out. Could you try logging out of Spotify, restarting your device, and logging back in to see if your usual playlists reappear?"
+}

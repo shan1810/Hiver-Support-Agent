@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a general query about an outage where troubleshooting steps can be offered without needing account-specific action or security intervention.",
+ "reply": "Hey there! Help's here! Can you let us know what device you're using and what's happening exactly? We'll see what we can suggest."
+}

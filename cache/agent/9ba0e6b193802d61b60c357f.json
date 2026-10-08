@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer needs help recovering their account, which requires human agent intervention via DM.",
+ "reply": "Hey there! We've just sent you a DM. Let's continue chatting there and we'll help get your account back."
+}

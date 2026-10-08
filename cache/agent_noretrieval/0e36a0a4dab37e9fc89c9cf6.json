@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is asking about paid features not appearing after a payment, which requires account-specific billing intervention.",
+ "reply": "Hey there! We can look into your account and payment status from the backstage. Please send us a DM with your account details so we can help sort this out!"
+}

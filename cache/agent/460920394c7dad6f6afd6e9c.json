@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is confused about a new design and visualizer, which falls under feature feedback and can be addressed publicly with clarifying questions.",
+ "reply": "Hey there! Are you seeing a new visualizer feature in your app? Let us know what's going on and we'll be happy to help clear things up!"
+}

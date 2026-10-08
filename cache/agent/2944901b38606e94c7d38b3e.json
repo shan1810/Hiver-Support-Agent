@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about the availability of specific content, which can be addressed auto-handled per policy.",
+ "reply": "Hey there! We’ll have it available to you as soon as it’s available to us – stay tuned!"
+}

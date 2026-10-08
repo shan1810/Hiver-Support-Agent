@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Family plan invitation error requires account-specific troubleshooting that cannot be resolved in a public reply.",
+ "reply": "Hi there! Sorry the invite isn't going through. Could you DM us your account's email address and your friend's? We'll take a look backstage!"
+}

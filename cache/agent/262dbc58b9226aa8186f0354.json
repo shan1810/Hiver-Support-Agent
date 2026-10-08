@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a playback and technical issue with searching in the app which can be addressed with standard troubleshooting steps.",
+ "reply": "Hey there! Sorry about that. Have you tried logging out and back in to your account, or checking for any app updates? Let us know if that helps!"
+}

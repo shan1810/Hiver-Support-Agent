@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is complaining about notification timing and asking how to turn off notifications, which can be handled with standard self-service troubleshooting without human intervention.",
+ "reply": "Hey there! Sorry about the late alert. You can turn off push notifications in your device settings or via your account page under Notification settings."
+}

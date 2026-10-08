@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific billing actions such as checking and refunding double charges require human intervention and cannot be resolved in a public reply.",
+ "reply": "Hey there! We can certainly take a closer look into that double charge with you. Send us a DM with the email address linked to your account and we'll get right on it!"
+}

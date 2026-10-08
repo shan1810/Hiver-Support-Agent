@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Friendly, appropriate response to a vague greeting."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good clarifying question for a vague tweet."
+  },
+  {
+   "rid": "R3",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalation to DM is unnecessary for a vague greeting."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Friendly and helpful, addresses the user by name."
+  },
+  {
+   "rid": "R5",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Hallucinates a specific issue not mentioned by the user."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is experiencing a recurring technical bug affecting their library and requires account-specific troubleshooting or intervention by a human support agent.",
+ "reply": "Hey there! We'd love to take a closer look under the hood at your library issue. Send us a DM with your account details and we'll get this sorted out for you!"
+}

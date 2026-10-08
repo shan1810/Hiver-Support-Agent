@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a general inquiry about subscription options that can be answered auto-handling via community or support articles without needing account access or human escalation.",
+ "reply": "Hey there! While we don't have a direct digital gift card feature for Family plans right now, you can gift physical Spotify gift cards available at major retailers! Check out more info here: [link: Spotify Support gift cards]"
+}

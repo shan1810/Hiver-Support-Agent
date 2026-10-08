@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action is needed to look up the email address associated with the username.",
+ "reply": "Hey there! We can certainly help you track down your account details. Shoot us a DM with your username and we'll get this sorted so you can manage your subscription!"
+}

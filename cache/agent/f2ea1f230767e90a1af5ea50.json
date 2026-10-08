@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user reports the service is down, which is a general technical issue that can be addressed with standard troubleshooting without needing account-specific actions or human intervention.",
+ "reply": "Hey there! We're here to help get your music back on. Try restarting your app and checking your connection to see if things start playing again. Keep us posted!"
+}

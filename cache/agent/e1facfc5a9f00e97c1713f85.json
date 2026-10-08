@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing issue requires a human agent to look up and reverse the double charge via direct message.",
+ "reply": "Hey there! Help's here. Could you DM us your account's email address? We'll take a look backstage."
+}

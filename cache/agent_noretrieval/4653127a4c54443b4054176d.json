@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is suggesting a new playlist feature, which is general feature feedback that can be auto-handled without escalation.",
+ "reply": "Hey there! We love the dedication to Frank Zappa. While we can't build hyper-specific timestamp playlists just yet, you can share this idea on the Spotify Community ideas board ([link: Spotify Community ideas board]) so our team can check it out!"
+}

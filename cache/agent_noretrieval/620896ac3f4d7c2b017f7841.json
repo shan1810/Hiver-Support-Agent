@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is reporting an unexpected charge and needs account-specific billing support which a public reply cannot handle.",
+ "reply": "Hey there! We definitely want to look into this charge for you. Send us a DM with the email tied to your account and we'll get backstage help on it."
+}

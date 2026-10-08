@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a general complaint about the service availability and customer experience in India without any specific technical, billing, or security issue.",
+ "reply": "Hey there! We're sorry you're feeling frustrated. If there's anything specific we can help you with regarding your experience, let us know!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user is following up on a direct message regarding an account issue that requires human support to look up account details.",
+ "reply": "Hey there! We've sent a DM your way. We'll carry on helping you there."
+}

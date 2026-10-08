@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about missing content, which can be auto-handled with standard information about how content availability works on Spotify.",
+ "reply": "Hey there! We'd love to have all titles available, but content availability can vary depending on licensing. You can find more info here: [link: Spotify Support]."
+}

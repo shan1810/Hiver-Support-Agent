@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Vague tweet, public clarification needed before DM for personal info."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Vague tweet, public clarification needed before DM for personal info."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok"
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Ok"
+  },
+  {
+   "rid": "R5",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 1,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Completely irrelevant to the customer's tweet."
+  }
+ ]
+}

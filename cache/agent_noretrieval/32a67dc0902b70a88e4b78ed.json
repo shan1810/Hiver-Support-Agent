@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "Multiple accounts experiencing unauthorized activity (unknown played songs) suggests potential security compromises requiring human review.",
+ "reply": "Hey there! That definitely sounds concerning if you and your wife are seeing unrecognized tracks. Please shoot us a DM with the email addresses tied to both accounts so we can look backstage and keep your profiles safe."
+}

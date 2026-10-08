@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is too vague and casual to act on as a specific support issue, so it is classified as other and auto-handled with a friendly greeting.",
+ "reply": "Hey there! What's going on? Let us know how we can help you with your tunes today."
+}

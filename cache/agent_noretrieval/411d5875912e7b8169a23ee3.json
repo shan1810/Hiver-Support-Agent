@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer is expressing frustration about contacting support channels, which triggers escalation policy for tone or support complaints.",
+ "reply": "Hey there! We're sorry for the frustration. Send us a DM over on Twitter at @SpotifyCares or reach out via https://support.spotify.com and we'll get your questions answered!"
+}

@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 2,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Incomplete sentence and uses generic 'feel that way' which is dismissive."
+  },
+  {
+   "rid": "R3",
+   "grounded": 2,
+   "helpful": 3,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asking for bank statement details in DM is a security risk."
+  },
+  {
+   "rid": "R4",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

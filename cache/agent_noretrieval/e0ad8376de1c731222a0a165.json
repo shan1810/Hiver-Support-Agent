@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is leaving positive feedback about the support they received, so it can be auto-handled with a friendly response.",
+ "reply": "Hey there! We love to hear that. Thanks for reaching out, and we're always here if you need a hand with anything else!"
+}

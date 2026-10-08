@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Password reset issues require account-specific support via DM.",
+ "reply": "Hey there, help's here! Could you DM us your account's username or email address? We'll take a look backstage"
+}

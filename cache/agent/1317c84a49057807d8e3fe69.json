@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a complaint about app features on Roku that can be auto-handled by asking for details, matching similar past support interactions.",
+ "reply": "Hey there! Can you let us know exactly what you'd like to see on the Spotify app for Roku? We'll see what we can suggest."
+}

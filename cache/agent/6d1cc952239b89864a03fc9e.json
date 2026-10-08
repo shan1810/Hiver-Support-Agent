@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The account is reported stolen, requiring account-specific recovery action by a human agent in DMs.",
+ "reply": "Hi there! Help's here. Can you DM us your account's email address or username so we can help you recover it safely?"
+}

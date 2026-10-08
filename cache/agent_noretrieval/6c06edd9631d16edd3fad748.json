@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is reporting issues with the Roku app functionality, which is a standard technical troubleshooting matter that can be auto-handled.",
+ "reply": "Hey there! Sorry to hear the Roku app is giving you trouble with your library. Try restarting the app or reinstalling it, and let us know if that helps!"
+}

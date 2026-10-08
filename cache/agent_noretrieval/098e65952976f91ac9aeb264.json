@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is following up on an existing support DM regarding an anxious child, which can be auto-handled by reassuring them we are reviewing DMs in order.",
+ "reply": "Hey there! Thanks for reaching out. We're working through our DMs as fast as we can and will get back to you as soon as possible. Hang tight!"
+}

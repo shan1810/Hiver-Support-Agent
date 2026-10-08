@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user was charged for a subscription update but Premium is not active, requiring human intervention to look up and fix the account status backstage.",
+ "reply": "Hey there! Can you DM us your account's username and email address? We'll take a look backstage to help get this sorted."
+}

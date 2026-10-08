@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account access issues and inability to log in or cancel payments require human support intervention via DM to investigate the account state.",
+ "reply": "Hey there! We want to help get you back into your backstage. Send us a DM with the email on the account so we can take a closer look! [link: Spotify Support]"
+}

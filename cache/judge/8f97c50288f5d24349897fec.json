@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; escalation not required for general how-to."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; escalation not required for general how-to."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; escalation not required for general how-to."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; escalation not required for general how-to."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; escalation not required for general how-to."
+  }
+ ]
+}

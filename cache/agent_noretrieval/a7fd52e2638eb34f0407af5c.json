@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action and account recovery are needed to find the email and password, which cannot be done publicly.",
+ "reply": "Hey there! We'd love to help you get back into your account and sort out your cancellation. Send us a DM with your username or any email you might have used, and we'll take a look backstage!"
+}

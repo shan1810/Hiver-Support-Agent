@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies security risk and provides safe path for account-specific issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Completely ignores the user's billing issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Addresses security risk and offers appropriate escalation path."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Fails to advise the user to delete the tweet containing personal info."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Addresses the billing issue, security risk, and provides clear next steps."
+  }
+ ]
+}

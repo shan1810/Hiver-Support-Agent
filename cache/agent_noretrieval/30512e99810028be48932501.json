@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Resolving incorrect artist profile linkage requires manual backend profile separation, which needs human assistance.",
+ "reply": "Hey Chaps! We'd love to help get your Tech House tracks sorted from the 90's boy band. Send us a DM with your artist profile link so our team can investigate!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user reports a hacked account requiring human assistance, and they have already been directed to DM.",
+ "reply": "Hey there! We're on it. We've replied to your DM, so let's continue helping you sort this out securely over there."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer indicates an unauthorized account setup tied to their email, requiring security review.",
+ "reply": "Hey there! Let's get this sorted out securely. Please send us a DM with your email address so our team can help lock down your account."
+}

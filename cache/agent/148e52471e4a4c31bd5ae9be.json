@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer needs help accessing their account and cancelling their subscription, which requires account-specific human assistance via DM.",
+ "reply": "Hey there! Help's here. Could you DM us any possible email addresses or usernames you might've used for Spotify? We'll take a look backstage 🔍"
+}

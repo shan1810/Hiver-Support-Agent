@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a technical bug report about the Windows app starting on boot, which can be addressed with standard troubleshooting steps.",
+ "reply": "Hey there! Sorry the desktop app is acting like an eager opener. Try doing a clean reinstall of Spotify on your PC, and check your advanced startup settings to keep it backstage until you call for it!"
+}

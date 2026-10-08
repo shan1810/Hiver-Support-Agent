@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "none",
+ "reason": "The customer is following up on a previous direct message and asking about response times.",
+ "reply": "Hey there! Thanks for your patience, we've just replied to your DM so let's continue chatting over there!"
+}

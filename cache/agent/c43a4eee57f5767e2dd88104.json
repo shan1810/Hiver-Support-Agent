@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer's account has been hacked and account-specific intervention is required to recover it.",
+ "reply": "Hey there, that's not cool! Could you DM us your account's username and email address? We'll take a look backstage."
+}

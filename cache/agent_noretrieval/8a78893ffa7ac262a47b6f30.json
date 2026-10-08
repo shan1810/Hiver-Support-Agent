@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about a missing new album, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! Release times can vary depending on the artist's or label's team. Hang tight, it should be hitting the stage soon!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is experiencing a technical playback error and troubleshooting steps can be provided auto-matingly without needing account access or a human agent yet.",
+ "reply": "Hey there! Try restarting your app and checking your internet connection. If that doesn't work, let us know what device you're using and we'll help troubleshoot!"
+}

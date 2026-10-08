@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Unnecessary escalation to DM for a general troubleshooting issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Unnecessary escalation to DM for a general troubleshooting issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good clarifying questions to troubleshoot the issue publicly."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

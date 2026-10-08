@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking how to reach support and complaining about the Messenger channel, which falls under general support questions and can be auto-handled without human intervention.",
+ "reply": "Hey there! We're right here and happy to help. What's on your mind? Let us know the details and we'll see what we can do!"
+}

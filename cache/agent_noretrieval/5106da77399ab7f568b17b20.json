@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking a general question about promotions for unsigned artists, which fits into feature feedback or general inquiries and can be handled publicly without escalation.",
+ "reply": "Hey there! We love supporting independent artists. Check out Spotify for Artists to learn how to pitch your music and get noticed: [link: Spotify for Artists]."
+}

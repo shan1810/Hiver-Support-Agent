@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Empathetic, provides actionable advice, and respects the user's situation."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asking for account details publicly is a security risk."
+  },
+  {
+   "rid": "R3",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 2,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Irrelevant request for an artist URI; ignores the user's distress."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 3,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Polite and acknowledges feedback, though less helpful than R1."
+  },
+  {
+   "rid": "R5",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for a sensitive issue that requires account-specific support."
+  }
+ ]
+}

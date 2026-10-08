@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a refund for incorrect charges, which requires account-specific action from a human agent.",
+ "reply": "Hey there! We want to help get your student discount sorted and look into those charges. Send us a DM with your account details so we can take a closer look backstage!"
+}

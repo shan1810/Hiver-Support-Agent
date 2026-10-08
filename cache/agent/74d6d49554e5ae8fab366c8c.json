@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is experiencing a plan and payment-related error where they are being charged or blocked from getting the offer while still seeing ads, requiring account-specific billing intervention.",
+ "reply": "Hey there! Help's here. Can you DM us your account's email address so we can take a look backstage?"
+}

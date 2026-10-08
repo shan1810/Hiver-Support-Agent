@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Changing a subscription plan type requires account-specific backend actions.",
+ "reply": "Hey there! We can certainly help you look into switching from monthly to annual. Send us a DM with your account email and we'll get you backstage access to sort that out!"
+}

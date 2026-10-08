@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correct escalation for account-specific payment/login issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Claims a DM reply exists when none was sent."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Helpful general info, though doesn't solve the specific account recovery issue."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account recovery."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good tone and appropriate escalation for account-specific help."
+  }
+ ]
+}

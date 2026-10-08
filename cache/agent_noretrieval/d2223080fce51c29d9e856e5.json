@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a vague expression of frustration about the product or service without any specific issue, making it suitable for auto-handling with a clarifying request.",
+ "reply": "Hey there! We want to help. What's going on with your account or music? Let us know the details so we can get it sorted."
+}

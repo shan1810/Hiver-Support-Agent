@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer needs account-specific troubleshooting and verification of their student plan and Hulu bundle linking, which requires human agent action via DM.",
+ "reply": "Hey there! We can certainly help look into your student plan and Hulu linking. Can you DM us your account's email address or username? We'll check things backstage."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "Customer is asking about payment options for an annual subscription, which is a standard billing question that can be answered directly.",
+ "reply": "Hey there! Sure we do. Just select 'See more offers' on the Payments page to find the option to pay yearly."
+}

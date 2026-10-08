@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing app loading performance issues which can be resolved using standard troubleshooting steps without human intervention.",
+ "reply": "Hey there! We can help get things moving faster. Try clearing your app cache or reinstalling Spotify to see if load times improve. Let us know how it goes!"
+}

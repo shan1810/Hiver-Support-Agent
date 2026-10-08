@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account access issues."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good, clear request for DM to handle account access."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Friendly and appropriate escalation for login issues."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Personalized and appropriate escalation for login issues."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear and helpful request for DM to resolve login."
+  }
+ ]
+}

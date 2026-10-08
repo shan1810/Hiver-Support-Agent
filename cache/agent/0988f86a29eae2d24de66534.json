@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a technical playback behavior issue with smart speakers, which can be auto-handled with troubleshooting questions.",
+ "reply": "Hey there! Are you using voice commands directly on the speaker or casting from your phone? Let us know which device and app version you're on, and we'll check it out."
+}

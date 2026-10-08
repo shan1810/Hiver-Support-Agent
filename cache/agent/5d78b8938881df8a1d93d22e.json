@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a content quality/metadata issue with an edited track, which is a content-availability matter that can be auto-handled by asking for details like the link and country.",
+ "reply": "Hey there! Can you send us the Song Link so we can take a look? Just tap the three dots > Share > Copy Link. Also, what country is your account set to?"
+}

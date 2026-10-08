@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Acceptable escalation for account-specific billing issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good tone, clear escalation for billing issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear and concise escalation for billing issue."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear and concise escalation for billing issue."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Empathetic and clear escalation for billing issue."
+  }
+ ]
+}

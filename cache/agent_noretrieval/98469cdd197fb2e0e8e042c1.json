@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a promotional pricing question regarding an external partner offer and does not require account access, security intervention, or non-English handling.",
+ "reply": "Hey there! Partner offers like the Fido promo usually have specific end dates determined by the carrier. Check out the details on Fido's site or drop us a DM if you need help linking your account!"
+}

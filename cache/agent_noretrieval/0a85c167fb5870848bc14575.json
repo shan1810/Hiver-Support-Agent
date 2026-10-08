@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer has an account-specific billing issue regarding a promotion and active ads that a public reply cannot fix directly.",
+ "reply": "Hey there! We can certainly take a look at your subscription status and charges backstage. Send us a DM with the email tied to your account so we can help sort this out: [link: Spotify Support]"
+}

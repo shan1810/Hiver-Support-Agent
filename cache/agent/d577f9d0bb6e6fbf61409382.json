@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer shares distressing personal circumstances alongside a billing and payment issue, requiring human intervention.",
+ "reply": "Hey there! We hear you and want to help make sure your account stays safe while you're away. Could you safely DM us? We'll take a look backstage."
+}

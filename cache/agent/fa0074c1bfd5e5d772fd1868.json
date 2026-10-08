@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is complaining about being overcharged and asking for a refund on additional fees, which requires account-specific action by a human agent backstage.",
+ "reply": "Hey! Help's here. Can you send us a DM with your account's email address and username? We'll take a closer look at those charges backstage."
+}

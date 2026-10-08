@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a standard technical playback issue on a specific device that can be handled with basic troubleshooting steps without needing account access.",
+ "reply": "Hey there! Sorry to hear your music is cutting out. Try a clean reinstall of the app and check your connection settings to see if that helps get things playing smoothly!"
+}

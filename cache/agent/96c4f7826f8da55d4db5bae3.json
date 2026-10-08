@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing frustration about a product feature/behavior rather than experiencing a technical bug or requiring account-specific help, so it can be auto-handled.",
+ "reply": "Hey there! We appreciate the feedback on how links open. We'll pass your thoughts along to the team so they can keep tuning the experience."
+}

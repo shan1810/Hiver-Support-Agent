@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about missing albums and content availability, which can be handled publicly with standard information.",
+ "reply": "Hey there! We'd love to have all music available, but sometimes content comes and goes. We've got more info on how that works right here: [link: Spotify Support content availability]."
+}

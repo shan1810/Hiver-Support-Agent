@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing a technical issue with the app not loading, which is a standard auto-handleable playback problem with known troubleshooting steps.",
+ "reply": "Hey there! We'd love to help get things playing. Have you tried a quick reinstall or restarting your device yet? Let us know how it goes!"
+}

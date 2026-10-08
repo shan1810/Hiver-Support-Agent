@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account access issues requiring login or password assistance must be handled via DM by a human agent.",
+ "reply": "Hey there! Help's here. Can you DM us your account's username or email address? We'll take a look under the hood."
+}

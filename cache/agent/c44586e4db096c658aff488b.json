@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user is requesting a DM for an unspecified artist issue, requiring agent assistance to look into account or content details.",
+ "reply": "Hey there! Send us a DM with more details about the artist issue, and we'll check backstage to help."
+}

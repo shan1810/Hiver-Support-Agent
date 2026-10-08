@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user is reporting unauthorized access to their account and password reset issues, requiring a secure human agent in DMs to restore account security and access.",
+ "reply": "Hey there, help's here! That sounds super worrying. Can you DM us your account's email address and username? We'll take a look backstage to secure your account."
+}

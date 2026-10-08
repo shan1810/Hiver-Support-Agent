@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is asking about specific billing terms and requirements for a prepaid card offer, which requires account-specific support from a human agent.",
+ "reply": "Hey there! We can certainly take a closer look at how prepaid cards and offers work for your account. Send us a DM with your account details and we'll help sort this out!"
+}

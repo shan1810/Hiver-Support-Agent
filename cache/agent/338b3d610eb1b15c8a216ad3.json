@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer posted sensitive credit card information in their public tweet, requiring immediate escalation for security reasons.",
+ "reply": "Hey there! Please delete this tweet as it contains sensitive info, and DM us your account's email address or username so we can help sort this out."
+}

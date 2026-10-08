@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Student plan bundling issues require human assistance to verify account status and fix the Hulu authorization.",
+ "reply": "Hey there! We can help look into your Student plan and Hulu access. Send us a DM with your account email so we can get this sorted out."
+}

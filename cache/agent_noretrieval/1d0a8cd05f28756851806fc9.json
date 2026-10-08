@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is locked out of their account and needs backend account-specific assistance that public support cannot provide.",
+ "reply": "Hey there! We can certainly help you get back backstage. Send us a DM with your account email or username so we can take a closer look at this login issue."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action (refund/reversing a charge) requires human intervention.",
+ "reply": "Hey there! We know how stressful that is. We can't handle refunds here publicly, so please send us a DM with your account email and we'll take a look backstage."
+}

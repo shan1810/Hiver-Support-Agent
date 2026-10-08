@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Family plan invite errors often require backend account-specific troubleshooting that a public reply cannot fix.",
+ "reply": "Hey there! We'd love to help get your friend on your Family plan. So we can take a closer look at that invite error, could you slide into our DMs with your account email?"
+}

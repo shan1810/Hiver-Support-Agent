@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a feature request about an Apple Watch app which can be auto-handled with a suggestion to vote on the Spotify Community ideas board.",
+ "reply": "Hey there! We don't have any info to share right now, but you can add your vote to the official idea on our Community board to let our devs know: [link: Spotify Community ideas board]"
+}

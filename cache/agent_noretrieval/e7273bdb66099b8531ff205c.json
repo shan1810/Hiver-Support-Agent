@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a technical issue regarding site availability, which can be handled with standard troubleshooting steps.",
+ "reply": "Hey there! Sorry for the trouble with the site. Try restarting your app or checking out support.spotify.com for the latest updates on service status. Help's here!"
+}

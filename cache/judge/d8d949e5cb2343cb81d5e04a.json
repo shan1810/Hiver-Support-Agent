@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Account changes should be handled via DM, but this is a general how-to question."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Account changes should be handled via DM, but this is a general how-to question."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Account changes should be handled via DM, but this is a general how-to question."
+  },
+  {
+   "rid": "R4",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Account changes should be handled via DM, but this is a general how-to question."
+  }
+ ]
+}

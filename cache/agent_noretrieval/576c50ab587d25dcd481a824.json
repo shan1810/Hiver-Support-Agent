@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about monthly pricing after cancelling a phone contract bundle, which is an auto-handle billing inquiry.",
+ "reply": "Hey there! Standard pricing depends on your country and plan type. You can check current rates for Individual, Duo, and Family plans right here: [link: Spotify Plans]."
+}

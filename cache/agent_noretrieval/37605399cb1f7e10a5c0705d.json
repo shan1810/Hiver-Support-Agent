@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is experiencing standard app troubleshooting issues and wants help getting music to play.",
+ "reply": "Hey there! We want to get your chillout playlist spinning again. Try clearing the app cache or restarting your device once more. If it still won't play, let us know what device you're using!"
+}

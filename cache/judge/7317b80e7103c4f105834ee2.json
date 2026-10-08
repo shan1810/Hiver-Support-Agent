@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Friendly and appropriate response to a positive tweet."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Warm, concise, and on-brand."
+  },
+  {
+   "rid": "R3",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Invents facts about the user's intent; irrelevant to the tweet."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Perfectly captures the SpotifyCares tone."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Unnecessary escalation for a non-issue tweet."
+  }
+ ]
+}

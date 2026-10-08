@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account recovery for a stolen account requires human intervention and account-specific actions.",
+ "reply": "Hi there! We can certainly help you get back into your account. Please shoot us a DM with your username or email so our support crew can assist securely."
+}

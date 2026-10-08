@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is experiencing a technical issue with search and playback, which can be addressed with standard troubleshooting steps.",
+ "reply": "Hey there! Sorry to hear search isn't working right. Have you tried restarting the app or checking for updates? If that doesn't fix it, let us know what device you're on and we'll help get your tracks back!"
+}

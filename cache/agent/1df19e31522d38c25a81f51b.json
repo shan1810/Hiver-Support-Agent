@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer shared their email address publicly and needs an account-specific family plan address fix.",
+ "reply": "Hi there! We'd suggest deleting this tweet since it includes your email address. Could you DM us instead? We can take a closer look at your Family plan address issue backstage."
+}

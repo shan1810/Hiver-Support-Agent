@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting an issue with incorrect metadata or tracks on an album, which is a content-availability issue that can be auto-handled with troubleshooting or reporting steps.",
+ "reply": "Hey there! Thanks for flagging this. Metadata mix-ups happen sometimes, and we'd love to pass this along to our content team to look into. You can report missing or incorrect tracks directly over at [link: Spotify Community]."
+}

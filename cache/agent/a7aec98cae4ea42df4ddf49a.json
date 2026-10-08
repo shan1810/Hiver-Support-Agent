@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user reports that their account was hacked and the email address was changed, requiring account-specific recovery action by a human agent via DM.",
+ "reply": "Hey there! That's not cool. Could you send us a DM with your username or the original email address on the account? We'll help you get this sorted out backstage."
+}

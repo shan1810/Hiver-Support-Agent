@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing a technical issue with the app not loading content, which can be troubleshot publicly.",
+ "reply": "Hey there! That definitely doesn't sound right. What device and OS are you using? Let us know and we'll see what we can suggest to get you up and running."
+}

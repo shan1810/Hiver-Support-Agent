@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking if Spotify is down due to a playback or technical issue, which can be auto-handled with standard troubleshooting advice.",
+ "reply": "Hey there! We aren't seeing any widespread outages right now. Try restarting the app or checking [link: Spotify Status] to see if things are back on track!"
+}

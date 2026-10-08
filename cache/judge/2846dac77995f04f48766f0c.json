@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Vague complaint requires DM for account-specific investigation."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Vague complaint requires DM for account-specific investigation."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good clarifying question for a vague complaint."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good clarifying question for a vague complaint."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 2,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Irrelevant canned response to a vague complaint."
+  }
+ ]
+}

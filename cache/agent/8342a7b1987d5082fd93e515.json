@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is requesting the addition of specific chillout music for newborns, which falls under content suggestions and does not require account-specific intervention or escalation.",
+ "reply": "Hey there! Thanks for the suggestion—we'll pass it along to our curation team. Hope the little one enjoys the tunes!"
+}

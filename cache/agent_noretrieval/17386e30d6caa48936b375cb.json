@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action such as resetting a password requires human intervention to assist securely.",
+ "reply": "Hey there! We'd love to get you back backstage. Send us a DM with your username or email and we can help sort out your password reset!"
+}

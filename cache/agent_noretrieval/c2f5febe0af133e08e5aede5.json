@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is complaining about the app crashing frequently on their phone, which is a playback and technical issue that can be handled with standard troubleshooting steps.",
+ "reply": "Hey there! We'd love to help get your app running smoothly. Try restarting your device and reinstalling the app, or check out [link: Spotify Support] for more troubleshooting tips!"
+}

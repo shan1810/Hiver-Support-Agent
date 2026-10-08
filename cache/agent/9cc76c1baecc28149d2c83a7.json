@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a playback or app UI bug that can be triaged with standard troubleshooting questions without needing human account access.",
+ "reply": "Hey there! That's a quirky bug, for sure. Could you let us know what device you're using and your current app version? We can take a closer look!"
+}

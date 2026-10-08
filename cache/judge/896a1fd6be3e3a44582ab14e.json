@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Irrelevant response that ignores the customer's issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 4,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account-specific family plan troubleshooting."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good, but R2 is slightly more specific regarding the family plan."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Friendly, helpful, and correctly escalates to DM for account-specific help."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear, helpful, and correctly escalates to DM for account-specific help."
+  }
+ ]
+}

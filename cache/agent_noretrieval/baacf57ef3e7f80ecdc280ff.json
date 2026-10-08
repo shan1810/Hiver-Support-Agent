@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer was unexpectedly charged and needs account-specific billing lookup and assistance that a public reply cannot provide.",
+ "reply": "Hey there! We'd love to take a closer look at that charge for you. Send us a DM with your account email so we can help sort this out backstage: [link: Spotify Support]"
+}

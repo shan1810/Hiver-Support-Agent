@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing frustration over UI changes and the removal of the direct sharing inbox feature, which is a classic feature feedback case handled automatically.",
+ "reply": "Hey there! We always want to hear your thoughts on how we can improve. Feel free to share your ideas and vote on features over on the [link: Spotify Community ideas board]!"
+}

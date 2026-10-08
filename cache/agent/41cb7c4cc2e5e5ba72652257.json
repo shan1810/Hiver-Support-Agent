@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer suspects their account has been hijacked, which requires security intervention and a direct message handover.",
+ "reply": "Hey there! We’re sorry to hear that. Can you DM us your account's email address or username so we can look into this security concern?"
+}

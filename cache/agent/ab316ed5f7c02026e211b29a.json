@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a joke or casual remark, so no account action or escalation is needed, and we can auto-handle with a friendly reply.",
+ "reply": "Hey there! We wouldn't dare start the playlist without you. 🎶"
+}

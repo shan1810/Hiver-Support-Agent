@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Customer was charged for Premium but is on Free, requiring an account-specific billing check by a human agent in DMs.",
+ "reply": "Hey there! We want to make sure your Premium is active if you've been charged. Send us a DM with your account email and we'll check backstage!"
+}

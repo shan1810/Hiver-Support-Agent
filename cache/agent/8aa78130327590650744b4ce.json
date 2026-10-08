@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a content availability question asking when a specific album will be uploaded, which can be auto-handled without requiring account access or human intervention.",
+ "reply": "Hey there! We’ll have it available to you as soon as it’s available to us. You can find some more info about Spotify content here: [link: Spotify Support]"
+}

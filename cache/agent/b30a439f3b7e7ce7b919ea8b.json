@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific lookup is needed to find the email address associated with the username before the user can proceed with cancellation.",
+ "reply": "Hi there! Can you DM us your account's username? We'll take a look backstage to help you find that email address."
+}

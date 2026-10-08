@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is questioning a payment/offer requirement and requires account-specific investigation into billing terms.",
+ "reply": "Hey there! That definitely sounds confusing. Can you DM us your account's username or email address? We'll check backstage to see what's happening."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking for a specific song version to be added, which is a standard content availability question that can be auto-handled.",
+ "reply": "Hi there! We’ll have it available to you as soon as it’s available to us. For more info check this link out: [link: Content Availability] Keep rocking 🤘"
+}

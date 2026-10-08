@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An unauthorized person has used the customer's email address to open an account, requiring account-specific verification and action by a human agent via DM.",
+ "reply": "Hey there! Help's here. Could you DM us the email address involved? We'll take a look backstage 🔍"
+}

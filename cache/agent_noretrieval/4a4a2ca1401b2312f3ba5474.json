@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer is complaining about support staff behavior, which triggers high-risk escalation under E3.",
+ "reply": "Hey there! We're really sorry to hear about your experience with support this morning. Please send us a DM so our team can look into this transcript and help sort it out."
+}

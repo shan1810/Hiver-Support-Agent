@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a vague greeting without a specific issue or question, suitable for a light auto-reply.",
+ "reply": "Hey there! Not much, just hanging out backstage. Let us know if you need a hand with anything Spotify-related!"
+}

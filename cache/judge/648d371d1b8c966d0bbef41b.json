@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Directly answers and provides a relevant resource. Action is correct for a general query."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Addresses the spirit of the question and offers a helpful resource. Action is correct."
+  },
+  {
+   "rid": "R3",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Invents outdated facts and is completely irrelevant to the customer's query."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "A reasonable clarifying question for a general query. Action is correct."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Misreads the issue; asks for account details for a general policy question. DM request is not ok."
+  }
+ ]
+}

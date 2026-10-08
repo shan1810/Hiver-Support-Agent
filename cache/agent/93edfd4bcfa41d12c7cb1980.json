@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user is having login trouble after a recent purchase and needs account-specific assistance that must be handled via DM.",
+ "reply": "Hey there! We can certainly help look into your login issue and recent purchase. Can you DM us your account's username or email address?"
+}

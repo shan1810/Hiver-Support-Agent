@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Asking for other family members' emails is unnecessary and potentially invasive."
+  },
+  {
+   "rid": "R2",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for a refund request."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear, helpful, and follows escalation policy for billing issues."
+  },
+  {
+   "rid": "R4",
+   "grounded": 2,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Vague; does not confirm if a DM was actually sent or explain why."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Professional and correctly routes the billing inquiry to DM."
+  }
+ ]
+}

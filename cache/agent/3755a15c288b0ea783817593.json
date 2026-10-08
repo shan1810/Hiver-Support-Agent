@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet expresses general frustration about market availability and customer service without specific account details, fitting the other intent and manageable via auto-handle.",
+ "reply": "Hey there! We're always launching in new markets and would love to hear more about your experience. Feel free to share your thoughts with us!"
+}

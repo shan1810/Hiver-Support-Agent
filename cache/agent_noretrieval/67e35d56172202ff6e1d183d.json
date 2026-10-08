@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "low",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is too vague to act on without additional context.",
+ "reply": "Hey there! Could you tell us a bit more about what's going on so we can help you get back to the music?"
+}

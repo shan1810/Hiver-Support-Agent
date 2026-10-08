@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Too vague; does not address the compromised account situation effectively."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Generic link does not address the specific account compromise issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

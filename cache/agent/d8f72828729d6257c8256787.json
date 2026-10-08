@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Correcting cross-linked artist profiles requires account-specific backend intervention by a human support agent.",
+ "reply": "Hey Chaps! We'd love to help get your Tech House tracks separated from the 90s boy band. Can you DM us your artist profile link and account email? We'll sort it out backstage!"
+}

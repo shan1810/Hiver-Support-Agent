@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account-specific billing issue."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account-specific billing issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Asking for email addresses is less secure than asking for charge details."
+  },
+  {
+   "rid": "R4",
+   "grounded": 2,
+   "helpful": 1,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Ignores that the user explicitly stated they do not have an account."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good escalation; requests specific, non-sensitive info to identify the charge."
+  }
+ ]
+}

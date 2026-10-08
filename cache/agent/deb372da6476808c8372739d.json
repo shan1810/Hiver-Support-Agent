@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is complaining about an unexpected charge and asking for a refund and plan adjustment, which requires account-specific action by a human.",
+ "reply": "Hey there! Help's here. Can you DM us your account's email address or username? We'll check backstage."
+}

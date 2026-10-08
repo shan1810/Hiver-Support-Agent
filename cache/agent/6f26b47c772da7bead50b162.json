@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is complaining about the shuffle feature behavior, which falls under feature feedback and does not require account action or escalation.",
+ "reply": "Hey there! We hear you, shuffle is meant to keep things fresh. We'll pass your feedback along to the team so they can keep tuning it!"
+}

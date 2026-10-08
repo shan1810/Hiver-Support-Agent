@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer's account has been compromised and previous self-service steps failed, requiring a human agent to investigate account access and security backstage.",
+ "reply": "Hey there! This doesn't sound good at all. Send us a DM with your account's email address so we can take a look under the hood and help lock things down 🔍"
+}

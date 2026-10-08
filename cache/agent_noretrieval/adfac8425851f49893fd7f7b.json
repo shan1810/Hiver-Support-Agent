@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer needs account recovery assistance which requires a human agent to handle in a secure DM channel.",
+ "reply": "Hey there! We'd love to help get your account back. Shoot us a DM with your account details and we'll take a look backstage!"
+}

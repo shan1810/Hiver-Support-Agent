@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R3",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Vague, does not explain why a DM is needed or what to do."
+  },
+  {
+   "rid": "R4",
+   "grounded": 1,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Invents a name (Benjamin) not present in the tweet."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

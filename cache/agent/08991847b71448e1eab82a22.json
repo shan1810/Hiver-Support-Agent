@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing feedback about ads on the free tier and asking about removing them, which is a product limitation we can address directly without human intervention or account access.",
+ "reply": "Hey there! We get that ads can be a bit repetitive sometimes, but they help keep the music playing on Free. If you want ad-free listening, Premium is the way to go!"
+}

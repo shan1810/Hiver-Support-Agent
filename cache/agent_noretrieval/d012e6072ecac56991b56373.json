@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting an outage with a dramatic tone, but it's a standard playback/technical issue that can be handled with basic troubleshooting steps without needing a human look-up or account access.",
+ "reply": "Hey there! We're tuning in to help—try restarting your app or checking your connection to get the music playing again. Let us know if it persists!"
+}

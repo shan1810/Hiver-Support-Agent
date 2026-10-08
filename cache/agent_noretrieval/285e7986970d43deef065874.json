@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The user reports that their account has been hacked and credentials changed, which is an account security issue requiring human intervention.",
+ "reply": "Hey there! We're here to help get you back into your account. Please send us a DM with your username or the email originally on the account so our support team can take a closer look."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing action and subscription cancellation are needed, which requires a human agent in DMs.",
+ "reply": "Hey there! We can certainly help look into your subscription and cancellation options. Send us a DM with the account details so our support crew can assist you backstage!"
+}

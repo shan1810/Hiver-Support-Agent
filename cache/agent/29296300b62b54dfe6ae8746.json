@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a playback outage or app issue which can be addressed with standard troubleshooting and is in English.",
+ "reply": "Hey there! We're on it and looking into what's going on. Thanks for hanging in there while we sort this out!"
+}

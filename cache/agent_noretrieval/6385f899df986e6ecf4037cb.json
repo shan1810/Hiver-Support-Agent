@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about a missing/incorrectly labeled song version, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! Thanks for reaching out. Sometimes track availability depends on licensing, but we'll share this with the team! You can also suggest it on our Community ideas board [link: Spotify Community ideas board]."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a playback error on a specific device which can be troubleshot with standard steps without needing human escalation.",
+ "reply": "Hey there! Sorry to hear it's acting up on your Dell. Try doing a clean reinstall of the desktop app, and check that your firewall or antivirus isn't blocking it. Let us know how it goes!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "medium",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The user needs account-specific assistance regarding their artist profile setup that requires human intervention.",
+ "reply": "Hey there! Help's here. Could you send us a DM with more details about what's happening with your profile? We'll take a look!"
+}

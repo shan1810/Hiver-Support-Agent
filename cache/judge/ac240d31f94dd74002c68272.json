@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Does not address the security concern; suggests public email support."
+  },
+  {
+   "rid": "R2",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for a potential security/account issue."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation, though name is incorrect (customer did not provide name)."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear, secure, and addresses the urgency of the security concern."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for a security concern."
+  }
+ ]
+}

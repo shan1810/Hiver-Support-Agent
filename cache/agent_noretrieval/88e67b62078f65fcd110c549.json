@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a general how-to playback question about controlling audio in the app, which can be auto-handled with troubleshooting steps.",
+ "reply": "Hey there! Spotify currently uses your device's hardware buttons for volume control rather than an in-app slider. For audio mixing with other apps, check out your device's audio settings or our community for tips!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is offering praise for support staff, which falls under other and can be auto-handled.",
+ "reply": "No worries! Let us know if you ever need us again. We'd be happy to help 💚"
+}

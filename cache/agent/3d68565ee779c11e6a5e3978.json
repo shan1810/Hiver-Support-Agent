@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is inquiring about billing issues which requires account-specific action that cannot be resolved in a public reply.",
+ "reply": "Hey there! We can certainly help with billing questions. Can you send us a DM so we can look into this account for you?"
+}

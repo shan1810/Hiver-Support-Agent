@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing investigation and charge reversal require human support, as we cannot process financial disputes or look up unlinked accounts publicly.",
+ "reply": "Hey there! We'd love to help track down these charges since you don't have an account. Please slide into our DMs with the charge details so our team can look into this for you!"
+}

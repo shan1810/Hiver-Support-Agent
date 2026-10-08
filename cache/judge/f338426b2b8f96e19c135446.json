@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies service availability in India and provides a relevant link."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalates to DM unnecessarily for a general availability question."
+  },
+  {
+   "rid": "R3",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalates to DM unnecessarily; ignores the regional availability issue."
+  },
+  {
+   "rid": "R4",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalates to DM unnecessarily; ignores the regional availability issue."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Helpful and grounded, though slightly less specific than R1."
+  }
+ ]
+}

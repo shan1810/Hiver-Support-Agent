@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer is complaining about support staff and wants to report an insulting chat session.",
+ "reply": "Hey there! We're really sorry to hear about your experience. Send us a DM with the details and transcript so our team can look into this for you right away."
+}

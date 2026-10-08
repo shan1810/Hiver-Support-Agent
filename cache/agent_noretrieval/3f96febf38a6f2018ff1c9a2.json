@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is reporting a playback issue with Chromecast, which is a technical troubleshooting topic that can be auto-handled without human escalation.",
+ "reply": "Hey there! Sorry for the interruptions with your Chromecast. Try restarting both your device and your router, and make sure your app is fully updated. Let us know how it goes!"
+}

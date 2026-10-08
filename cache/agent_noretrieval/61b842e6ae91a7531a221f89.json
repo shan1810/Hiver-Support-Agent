@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer suspects their account has been hijacked due to unexpected playback on an unknown device, which requires account security assistance and human intervention.",
+ "reply": "Hey there! That definitely sounds concerning and we'd love to help secure your account. Please shoot us a DM with your account email so we can investigate this right away."
+}

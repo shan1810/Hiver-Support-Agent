@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is extremely vague and unclear about any specific issue, so we ask the user what is happening.",
+ "reply": "Hey there! Can you let us know what's happening exactly? We're here to help."
+}

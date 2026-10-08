@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting unexpected behavior in recommendations/discovery features, which is auto-handled via troubleshooting or feedback collection.",
+ "reply": "Hey there! Let's get your mixes back on track. Try restarting the app or clearing your cache, and let us know if your usual playlists show up again!"
+}

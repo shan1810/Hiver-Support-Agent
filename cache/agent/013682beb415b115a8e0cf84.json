@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is suggesting a feature improvement for the shuffle algorithm, which can be auto-handled with a link to the feedback board.",
+ "reply": "Hey! We hear you on shuffle. We’re always looking to improve, and we'd love for you to share your idea on our Community ideas board here: [link: Spotify Community ideas board]"
+}

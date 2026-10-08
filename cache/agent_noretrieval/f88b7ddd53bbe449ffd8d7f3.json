@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is requesting specific types of music/chillout tracks for a newborn, which falls under content availability and feature suggestions.",
+ "reply": "Congrats on the newborn! While we don't curate specific custom track requests here, you can search for 'baby chillout' or 'sleep sounds' playlists right in the app to help them drift off to dreamland."
+}

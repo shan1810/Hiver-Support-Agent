@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing a feature request about app functionality without money or account issues, which can be auto-handled.",
+ "reply": "Hey there! We totally hear you on that. Feel free to share your thoughts on the Spotify Community ideas board so our team can check it out: [link: Spotify Community ideas board]"
+}

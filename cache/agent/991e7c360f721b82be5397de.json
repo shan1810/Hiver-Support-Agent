@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about monthly pricing options if they cancel their third-party carrier billing, which is an auto-handleable informational query.",
+ "reply": "Hey there! Standard individual plans are usually around $10.99/month, but you can check all our current plans and pricing right here: [link: Spotify Plans]. Let us know if you need a hand!"
+}

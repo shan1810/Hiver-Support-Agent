@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account access issues require human intervention to safely reset credentials and recover the account.",
+ "reply": "Hey there! We can certainly help you get back on stage. Send us a DM with the email tied to your account and we'll sort this out together."
+}

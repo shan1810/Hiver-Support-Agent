@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing feedback about cancelling free trials in the app, which can be auto-handled without account access.",
+ "reply": "Hey there! Thanks for sharing your thoughts with us. We'll pass this feedback along to the team. Let us know if you need anything else!"
+}

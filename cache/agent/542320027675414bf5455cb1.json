@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer was unexpectedly charged, requiring a human agent to review the account and handle a potential refund.",
+ "reply": "Hey there, help's here! Could you DM us your account's username or email address? We'll take a look backstage."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account access issue involving Facebook login discrepancy and inability to log in requires human intervention and account lookup.",
+ "reply": "Hey there! Let's get you backstage access again. Send us a DM with your account email and details so our team can sort out this Facebook login loop for you!"
+}

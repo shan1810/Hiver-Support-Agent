@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about finding an offer link, which is a general how-to question that can be auto-handled without account access.",
+ "reply": "Hey there! You can find current offers and promos directly by logging into your account page on our website under the 'Available Plans' section. Help's here if you need more info!"
+}

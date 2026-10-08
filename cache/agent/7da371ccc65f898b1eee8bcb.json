@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action and student plan verification with Hulu integration require human support via DM.",
+ "reply": "Hey there! Can you DM us your account's email address or username? We'll take a look backstage and help sort out your Hulu access."
+}

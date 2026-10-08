@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is disputing unwanted charges and needs account-specific billing and login help that requires human assistance via DM.",
+ "reply": "Hey John! We definitely want to look into those unexpected charges with you. Send us a DM with your account details and we'll get this sorted out backstage!"
+}

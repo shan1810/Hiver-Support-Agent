@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about promotional opportunities for unsigned artists, which is general feature and program feedback.",
+ "reply": "Hey there! We don't have promos for unsigned artists right now, but you can check out Spotify for Artists to share your music and reach listeners [link: Spotify for Artists]."
+}

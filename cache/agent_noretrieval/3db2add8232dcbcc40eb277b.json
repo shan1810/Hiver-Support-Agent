@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific access issue involving Facebook login failure requires human intervention in DMs to resolve safely.",
+ "reply": "Hey there! Let's get you back backstage. Send us a DM with the email linked to your account and a bit more info, and we'll take a closer look."
+}

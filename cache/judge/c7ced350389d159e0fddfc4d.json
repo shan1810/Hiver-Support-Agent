@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Vague link, action not ok for a how-to question."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Ignores the public how-to question, requests DM unnecessarily."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Ignores the public how-to question, requests DM unnecessarily."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Provides clear, specific public solution; excellent."
+  },
+  {
+   "rid": "R5",
+   "grounded": 3,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Vague link and instructions, reduces helpfulness."
+  }
+ ]
+}

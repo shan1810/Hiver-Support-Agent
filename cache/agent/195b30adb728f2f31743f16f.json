@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a technical playback question regarding Sonos and Spotify Connect which can be troubleshot publicly without needing account access or security intervention.",
+ "reply": "Hey there! Thanks for reaching out. Could you try restarting your Sonos speaker and the Spotify app to see if that helps get the music playing again? Keep us posted."
+}

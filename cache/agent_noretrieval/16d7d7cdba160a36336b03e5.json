@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer is reporting a potential account compromise with unauthorized device usage and unsolicited password reset emails.",
+ "reply": "Hey there! That sounds super stressful, but we've got your back. Send us a DM so our security crew can help lock down your account safely."
+}

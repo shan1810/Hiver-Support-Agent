@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies non-English language and offers appropriate support channel."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good, offers English or Indonesian support options."
+  },
+  {
+   "rid": "R3",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Should not ask for account details publicly; ignores language barrier."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly identifies non-English language and offers appropriate support channel."
+  },
+  {
+   "rid": "R5",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asks for personal data publicly; ignores language barrier."
+  }
+ ]
+}

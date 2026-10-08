@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalation to DM is unnecessary for a general policy question."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Accurate and helpful explanation of the download limit policy."
+  },
+  {
+   "rid": "R3",
+   "grounded": 2,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Contains outdated limit information (3,333 vs 10,000)."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correct and helpful information regarding current download limits."
+  },
+  {
+   "rid": "R5",
+   "grounded": 2,
+   "helpful": 2,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Vague and unhelpful; fails to provide the actual limit information."
+  }
+ ]
+}

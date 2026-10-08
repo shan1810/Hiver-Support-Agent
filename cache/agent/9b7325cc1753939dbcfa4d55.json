@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is too vague to act on without context, so an auto-handled clarifying question is appropriate.",
+ "reply": "Hey there! We want to help—could you let us know a bit more about what's going on so we can get things sorted?"
+}

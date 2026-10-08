@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "medium",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Recovering a deleted music library requires account-specific backend intervention that a public tweet cannot perform.",
+ "reply": "Hey there! We hate to see your music go. Shoot us a DM with your account details and we'll take a look behind the scenes to see if we can help get it back."
+}

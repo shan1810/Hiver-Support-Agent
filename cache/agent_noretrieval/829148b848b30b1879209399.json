@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is complaining about an unexpected double charge and has publicly shared personal data, requiring a human agent to look up billing details and resolve the account issue in DMs.",
+ "reply": "Hey there! We can certainly take a closer look at these charges with you. Please send us a DM so we can help sort this out backstage. Also, we recommend deleting this tweet since it includes your personal info!"
+}

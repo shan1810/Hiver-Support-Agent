@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking for a new album to be available on Spotify, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! We always want all your favorite music on Spotify. When an album drops depends on the artist and their team, but hopefully it'll be on repeat here soon!"
+}

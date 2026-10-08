@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer was charged for a student plan but their account status did not update, requiring a human agent to look up the payment and fix the plan membership.",
+ "reply": "Hey there! Don't worry, we'll look into this. Can you DM us your account's email address? We'll take a look backstage"
+}

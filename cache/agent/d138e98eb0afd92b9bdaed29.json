@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting a technical issue with shuffle on the iPhone app, which can be handled publicly by asking for troubleshooting details.",
+ "reply": "Hey there! Can you send us the model of your phone, along with the app and iOS versions on it? We'll see what we can suggest."
+}

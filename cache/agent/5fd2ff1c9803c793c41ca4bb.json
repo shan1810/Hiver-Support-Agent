@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The user is expressing severe emotional distress related to a sensitive personal circumstance, requiring human intervention and empathetic support.",
+ "reply": "Hey there! We are so sorry to hear you are going through this. Please send us a DM so our support team can help adjust your ad preferences."
+}

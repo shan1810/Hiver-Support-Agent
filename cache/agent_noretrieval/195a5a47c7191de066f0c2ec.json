@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing feedback and frustration about song recommendations in their weekly playlist, which does not require human escalation and can be auto-handled.",
+ "reply": "Hey there! We totally get wanting your weekly mix to hit all the right notes. You can always tap 'Hide this song' or give us your thoughts over on the [link: Spotify Community ideas board]!"
+}

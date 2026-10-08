@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is reporting a specific billing discrepancy regarding a promotion price and needs account-specific assistance to resolve it.",
+ "reply": "Hey there! We'd love to take a closer look at this promo charge for you. Please send us a DM with your account email so we can help sort this out backstage!"
+}

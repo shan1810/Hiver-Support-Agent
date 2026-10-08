@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account-specific billing/subscription inquiry."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Speculative claim about availability is not grounded."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Empathetic and appropriate escalation."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear and helpful escalation."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Concise and appropriate escalation."
+  }
+ ]
+}

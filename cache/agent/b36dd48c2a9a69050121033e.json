@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action is needed to investigate the missing account and login issues, which requires a human agent via DM.",
+ "reply": "Hey there! Help's here. Could you DM us your account's email address or username? We'll take a look under the hood."
+}

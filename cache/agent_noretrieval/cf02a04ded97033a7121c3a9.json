@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about the availability of a specific album, which can be auto-handled by explaining that content availability can vary due to licensing agreements.",
+ "reply": "Hey there! Content availability can sometimes vary depending on agreements with artists and rights holders. We're always adding new music, so hopefully it's back on stage soon!"
+}

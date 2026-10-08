@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer's account has been compromised as email, password, and personal details were changed without their consent.",
+ "reply": "Hey there! We can certainly help look into this. Can you DM us the account's original email address and username? We'll take a look backstage."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing a known technical playback bug on their iPhone and has already tried standard troubleshooting steps, making this an auto-handleable technical issue.",
+ "reply": "Hey there! Sorry the app's giving you a hard time. Since you've already tried reinstalling and restarting, let's look closer at your device settings. Send us a DM with your exact iOS version and we'll help get the music playing again!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer's account has been hacked and they are locked out, requiring a human agent to investigate via direct message.",
+ "reply": "Hey there! We’re sorry to hear that. Could you DM us your account's email address and username? We'll take a look backstage."
+}

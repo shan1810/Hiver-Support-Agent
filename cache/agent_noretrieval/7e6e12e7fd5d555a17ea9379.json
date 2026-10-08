@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a job application/pitch unrelated to Spotify support and can be auto-handled with a lighthearted brush-off.",
+ "reply": "Hey there! We love the ambition, but our hiring stage is managed over at our careers site rather than backstage here. Good luck with the job hunt!"
+}

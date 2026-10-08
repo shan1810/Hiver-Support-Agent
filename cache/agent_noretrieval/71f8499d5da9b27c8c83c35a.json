@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is complaining about a feature bug and app behavior without mentioning account issues or posting personal data, so it can be auto-handled.",
+ "reply": "Hey there! We hear you on shuffle acting up. Try clearing your app cache or reinstalling to see if that gets things playing right again!"
+}

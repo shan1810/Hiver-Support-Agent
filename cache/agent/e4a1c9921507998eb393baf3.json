@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing issue regarding unexpected charges requires human intervention to look up and resolve.",
+ "reply": "Hey there! We'd love to take a closer look at this charge. Can you DM us the email address tied to your account? We're on it!"
+}

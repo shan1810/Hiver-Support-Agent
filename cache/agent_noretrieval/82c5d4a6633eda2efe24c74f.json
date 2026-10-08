@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Transferring playlists between separate accounts requires backend assistance or specific account recovery actions that cannot be resolved publicly.",
+ "reply": "Hey there! We'd love to help you bring your playlists over to your new account. Shoot us a DM over at @SpotifyCares so our support crew can take a closer look behind the scenes!"
+}

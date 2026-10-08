@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "medium",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a playful comment or joke, which is handled as feature feedback/other without needing human escalation.",
+ "reply": "Hey there! We promise we aren't throwing a party without you—unless you missed your invite in your Release Radar! Drop us a DM if you need a hand with anything else."
+}

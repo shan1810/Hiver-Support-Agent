@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about the availability of a specific feature or content on Spotify in their region, which can be addressed publicly without human intervention or data collection.",
+ "reply": "Hey there! Music and feature availability can vary by region and licensing agreements, but we're always working to expand our catalog. You can share your ideas or vote on features here: [link: Spotify Community ideas board]"
+}

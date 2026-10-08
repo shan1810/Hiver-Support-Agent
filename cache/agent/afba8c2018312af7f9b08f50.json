@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer's account was compromised and they need account-specific security assistance which requires escalation to a human.",
+ "reply": "Hey there, help's arrived! Could you DM us your account's username and email address? We'll take a closer look at your account security backstage 🔍"
+}

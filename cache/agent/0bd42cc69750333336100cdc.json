@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is a market-launch question about availability in South Africa, which can be auto-handled with standard country-expansion info.",
+ "reply": "Hey there! We're launching in new countries as often as possible. Be sure to add your email at spotify.com/available to stay updated on our latest launches!"
+}

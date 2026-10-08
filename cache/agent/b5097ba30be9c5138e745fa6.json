@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is experiencing an ongoing technical playback issue after trying basic troubleshooting steps, which can be further investigated publicly before needing a DM.",
+ "reply": "Hey there! Let's get that chillout playlist playing. Does the same thing happen if you log in on a different device or use the web player?"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer reports their account was hacked today, which triggers the security escalation policy.",
+ "reply": "Hey there! We take account security very seriously. Please send us a DM so our team can help you lock down your account and get everything sorted safely."
+}

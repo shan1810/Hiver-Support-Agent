@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet shares content positively without asking for support or reporting an issue, so it can be auto-handled as general feedback or a compliment.",
+ "reply": "Hey there! We love to see it. Thanks for sharing the good tunes with us! 🎵"
+}

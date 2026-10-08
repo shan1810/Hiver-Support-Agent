@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer's account was hacked, which requires a human agent to review and secure via DM.",
+ "reply": "Hey there! Thanks for reaching out. We've received your DM and our security team will get back to you as soon as possible to help sort this out."
+}

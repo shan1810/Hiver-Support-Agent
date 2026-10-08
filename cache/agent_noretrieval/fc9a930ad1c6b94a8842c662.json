@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "This is a technical playback issue regarding Spotify Connect and Sonos, which can be handled publicly with troubleshooting steps without needing account access or security escalation.",
+ "reply": "Hey there! Let's get that music back on. Try restarting your Sonos and router, and make sure both your Sonos app and Spotify app are fully updated. If it keeps acting up, let us know what device you're casting from!"
+}

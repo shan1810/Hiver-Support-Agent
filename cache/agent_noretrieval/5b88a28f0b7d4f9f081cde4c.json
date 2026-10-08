@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about a specific song missing from Spotify, which is a content availability issue that can be auto-handled.",
+ "reply": "Hey there! Sometimes tracks temporarily go off-stage due to licensing. We hope to get 'Que Fue' back on rotation soon!"
+}

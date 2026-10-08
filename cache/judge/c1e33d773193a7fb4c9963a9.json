@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Vague request for DM; should provide troubleshooting or clarify the issue first."
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asking for account details publicly is a security risk."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 5,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Correctly directs the user to the appropriate support channel."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Provides helpful context and asks for info only if necessary."
+  },
+  {
+   "rid": "R5",
+   "grounded": 3,
+   "helpful": 3,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Asking for account email publicly is a security risk."
+  }
+ ]
+}

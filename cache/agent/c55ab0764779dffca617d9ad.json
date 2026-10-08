@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action and account recovery involving a lost email/password require human intervention in DMs.",
+ "reply": "Hey there! Help's here. Can you DM us any email addresses or usernames she might've used? We'll take a look backstage to help sort this out."
+}

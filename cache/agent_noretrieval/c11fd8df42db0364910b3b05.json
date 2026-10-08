@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking why a specific song is missing, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! Sometimes songs temporarily go off-stage due to licensing, but they usually come back. You can check out our Help Community for more info: [link: Spotify Community]"
+}

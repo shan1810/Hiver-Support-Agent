@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The account appears to be compromised as unauthorized changes were made to personal details and credentials.",
+ "reply": "Hey there! We want to help get you back into your account safely. Please send us a DM with your username or the email originally tied to the account so our support team can investigate."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "account_security",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The account is suspected to be compromised with unauthorized devices playing music, and a human must handle account recovery safely in DM.",
+ "reply": "Hey there! We can certainly help you secure your account. Please shoot us a DM with the email tied to your Spotify so we can look backstage. Also, please delete this tweet since it includes your username!"
+}

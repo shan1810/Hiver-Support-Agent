@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is unable to log in and needs account-specific assistance to resolve the issue.",
+ "reply": "Hey there! We'd love to help get you back into your account and check on that Premium access. Please send us a DM with your username or email so we can take a closer look!"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is requesting a feature (blacklisting tracks on radio), which is a product feedback topic that can be auto-handled without escalation.",
+ "reply": "Hey there! We don't have a direct block feature for radio yet, but you can hit the thumbs down icon on tracks to hear less of them. Feel free to share your idea on our [link: Spotify Community ideas board]!"
+}

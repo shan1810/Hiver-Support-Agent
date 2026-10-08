@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer paid for a plan but is missing their premium benefits, requiring a human agent to check the account and payment status via DM.",
+ "reply": "Hey there! That's not cool. Can you DM us your account's username or email address? We'll check backstage."
+}

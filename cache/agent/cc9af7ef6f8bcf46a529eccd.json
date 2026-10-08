@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action such as looking up multiple accounts and assisting with playlist transfer requires human intervention via DM.",
+ "reply": "Hey there! We'd love to help you sort out your playlist. Can you DM us the email addresses linked to both accounts? We'll take a look backstage!"
+}

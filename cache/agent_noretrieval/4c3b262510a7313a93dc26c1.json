@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific subscription and billing change requires human support to look up and manage.",
+ "reply": "Hey there! We'd love to help sort out your subscription change. Send us a DM with your account details and we'll take a look behind the backstage curtain!"
+}

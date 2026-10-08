@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking for a phone number for customer service, which can be handled publicly by clarifying that we don't have phone support and asking how we can help here.",
+ "reply": "Hey! We don't have phone support, but we can help right here on Twitter. Can you let us know what's happening so we can lend a hand?"
+}

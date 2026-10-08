@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E2",
+ "reason": "The customer mentioned bank details in the tweet which poses a security risk, and they also need account recovery and cancellation help.",
+ "reply": "Hey there! For your security, please delete this tweet since you shared sensitive details. Send us a DM and we'll help you sort out your login and payments backstage!"
+}

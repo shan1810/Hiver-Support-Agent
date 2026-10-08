@@ -1,0 +1,8 @@
+{
+ "intent": "account_access",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action is needed to fix the plan membership and Facebook linking issue, which requires human support.",
+ "reply": "Hey there! We can certainly help you sort out your account linking and the promo offer. Shoot us a DM with your username and email so we can take a closer look backstage!"
+}

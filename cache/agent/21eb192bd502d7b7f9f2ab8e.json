@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is reporting ongoing billing issues after deleting Facebook and asking to transfer payments between accounts, requiring account-specific backstage investigation.",
+ "reply": "Hey there! Help's here. Can you DM us the email addresses associated with both of your accounts? We'll take a look backstage to help sort this out."
+}

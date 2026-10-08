@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is sharing feedback about a missing high-resolution audio feature and expressing a preference for competitor tools, which can be auto-handled.",
+ "reply": "Hey there! Thanks for sharing your thoughts on Hi-Fi audio. We always appreciate hearing what our listeners want, and we'll pass your feedback along to the team!"
+}

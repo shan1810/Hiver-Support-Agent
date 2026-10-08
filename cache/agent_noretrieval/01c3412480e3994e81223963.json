@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The message is too vague to determine the exact issue.",
+ "reply": "Hey there! We'd love to help out—could you share a bit more detail or the device you're using so we can get things working?"
+}

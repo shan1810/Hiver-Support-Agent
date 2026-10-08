@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Payment options and student billing troubleshooting require account-specific assistance that must be handled in DMs by a human agent.",
+ "reply": "Hey there! Can you DM us your account's email address? We'll take a look at your payment options backstage."
+}

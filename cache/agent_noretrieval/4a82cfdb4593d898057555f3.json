@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is requesting a review and correction of a specific billing charge, which requires account-specific action from a human support agent.",
+ "reply": "Hey there! We want to help get this sorted for you. Could you slide into our DMs with your account email so we can take a closer look at these charges?"
+}

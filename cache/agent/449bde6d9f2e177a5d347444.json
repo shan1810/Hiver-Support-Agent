@@ -1,0 +1,8 @@
+{
+ "intent": "playback_technical",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The issue is a technical playback error on a specific device, which can be troubleshot publicly without needing personal account details or human escalation.",
+ "reply": "Hey there! Can you let us know your OS and Spotify version on your Dell? In the meantime, try restarting the app or clearing your cache to see if that gets the music flowing."
+}

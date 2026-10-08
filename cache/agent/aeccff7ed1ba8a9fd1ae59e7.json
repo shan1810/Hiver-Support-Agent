@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is reporting a double billing issue which requires a human agent to look up account details and process a refund or reversal.",
+ "reply": "Hey there, help's here! Can you DM us your account's username and email address? We'll take a look backstage."
+}

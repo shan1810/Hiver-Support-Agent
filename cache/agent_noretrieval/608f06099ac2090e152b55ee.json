@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking about missing albums, which is a content availability issue and can be auto-handled without escalation.",
+ "reply": "Hey there! Sometimes content availability varies by region or licensing agreements. You can check out our ideas board or request missing tracks here: [link: Spotify Community ideas board]."
+}

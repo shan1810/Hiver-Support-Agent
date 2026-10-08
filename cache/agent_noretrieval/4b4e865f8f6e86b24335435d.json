@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific student verification requires human assistance and cannot be resolved via public reply.",
+ "reply": "Hey there! We know that can be frustrating. Send us a DM with your account details and SheerID info, and our team will gladly take a backstage look at your student status!"
+}

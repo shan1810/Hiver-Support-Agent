@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is requesting a new product feature, which falls under feature feedback and can be auto-handled without human intervention.",
+ "reply": "Hey there! We can see how a play count feature would be handy. Thanks for taking the time to share your ideas with us – your feedback's been noted 📝"
+}

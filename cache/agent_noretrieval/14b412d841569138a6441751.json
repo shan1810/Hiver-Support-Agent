@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E3",
+ "reason": "The customer is using aggressive, hostile language and expressing severe frustration with company decisions, triggering the high-risk tone escalation policy.",
+ "reply": "Hey there! We get that dealing with link behavior can be frustrating. Drop us a DM with more details so we can take a closer look and share your feedback with the team."
+}

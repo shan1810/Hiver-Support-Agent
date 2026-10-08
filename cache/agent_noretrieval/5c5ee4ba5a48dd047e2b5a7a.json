@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking a general question about purchasing a Family plan in South Africa without mentioning any account-specific actions, security issues, or billing complaints.",
+ "reply": "Hey there! Yes, you can grab a Premium Family plan in South Africa as a great holiday gift. Head over to [link: Spotify Plans] to check out the details and get started!"
+}

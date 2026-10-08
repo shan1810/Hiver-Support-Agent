@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is too vague to determine the exact issue, so a general clarifying reply can auto-handle it.",
+ "reply": "Hey there! We'd love to help get you back on track. Can you let us know a bit more about what's going wrong?"
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Account-specific action involving billing charges and account login recovery requires human intervention via DM.",
+ "reply": "Hey John! That doesn't sound right. Can you DM us the email address or details on your account? We'll take a look backstage to help sort this out."
+}

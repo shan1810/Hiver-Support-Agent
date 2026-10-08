@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is complaining about the offline download limit, which is a known product feature limitation and can be auto-handled with standard product information.",
+ "reply": "Hey there! Right now, you can download up to 3,333 songs per device on up to 3 different devices due to licensing agreements. More info at [link: Spotify Support]!"
+}

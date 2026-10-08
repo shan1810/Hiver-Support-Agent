@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Student verification issues require an agent to look into the account and membership details via DM.",
+ "reply": "Hey there! Help's here. Could you send us a DM with your account's email address or username? We'll take a look backstage."
+}

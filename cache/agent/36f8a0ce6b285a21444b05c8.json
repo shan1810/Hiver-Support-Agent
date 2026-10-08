@@ -1,0 +1,8 @@
+{
+ "intent": "other",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The tweet is too vague and lighthearted to require action or escalation, so a friendly auto-reply is appropriate.",
+ "reply": "Hey there! Help's here—what's spinning on your end?"
+}

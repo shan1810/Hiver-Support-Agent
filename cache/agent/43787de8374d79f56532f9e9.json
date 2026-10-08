@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "Customer is asking about Black Friday or Cyber Monday discounts for plans, which falls under pricing promotions and can be auto-handled without escalation.",
+ "reply": "Hey there! We don't typically run Black Friday or Cyber Monday sales, but you can always check out [link: Spotify offers] for our current promos and plans!"
+}

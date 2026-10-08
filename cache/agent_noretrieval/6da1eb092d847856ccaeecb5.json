@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The customer is asking about a specific pricing plan and promo, which can be addressed auto-handled with standard information regarding current offers.",
+ "reply": "Hey there! We occasionally offer annual plans through specific retail partners or promotional links. Check out our plan page to see what's currently available in your region!"
+}

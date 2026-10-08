@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "An account-specific billing issue regarding a student charge requires a human agent to review and adjust.",
+ "reply": "Hey there! We want to take a closer look at that charge for you. Please slide into our DMs with your account email and a link to your student verification so we can help sort this out!"
+}

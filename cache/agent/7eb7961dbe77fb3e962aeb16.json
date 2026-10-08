@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is complaining about an unexpected charge after cancellation, requiring a human agent to look up the account and review the billing issue via DM.",
+ "reply": "Hey there, help's here! Can you DM us your account's email address? We'll check backstage to see what's going on."
+}

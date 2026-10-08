@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  },
+  {
+   "rid": "R2",
+   "grounded": 3,
+   "helpful": 1,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Assumes a specific issue not present in the customer tweet."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Escalating to DM for a vague greeting is unnecessary."
+  },
+  {
+   "rid": "R4",
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": false,
+   "note": "Invents a service outage that was not reported."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "ok"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is reporting an incorrect explicit tag/version of a specific track on an album, which is a content metadata issue that can be auto-handled without human escalation.",
+ "reply": "Hey there! Thanks for letting us know about this. Track versions and explicit tags depend on what's delivered to us by the rights holders, but we'll pass this metadata feedback along to the content team!"
+}

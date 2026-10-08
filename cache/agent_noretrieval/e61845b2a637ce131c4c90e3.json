@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer paid for a promotion but Premium is not active on their phone despite troubleshooting, requiring account-specific sync or subscription verification.",
+ "reply": "Hey there! We can take a closer look at your subscription sync. Please send us a DM with the email linked to your account and that order number so we can help sort this out!"
+}

@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Account-specific billing inquiry requires DM for security."
+  },
+  {
+   "rid": "R2",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Account-specific billing inquiry requires DM for security."
+  },
+  {
+   "rid": "R3",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Account-specific billing inquiry requires DM for security."
+  },
+  {
+   "rid": "R4",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 3,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Account-specific billing inquiry requires DM for security."
+  },
+  {
+   "rid": "R5",
+   "grounded": 5,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Account-specific billing inquiry requires DM for security."
+  }
+ ]
+}

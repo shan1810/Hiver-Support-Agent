@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is complaining about an incorrect charge requiring account-specific billing intervention by a human agent in DMs.",
+ "reply": "Hey there! That doesn't sound good. Can you DM us your account's email address or username? We'll take a look backstage."
+}

@@ -1,0 +1,8 @@
+{
+ "intent": "feature_feedback",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is expressing frustration about product design decisions and app features, which is handled as feature feedback without needing escalation.",
+ "reply": "Hey there! We hear you on this. Appreciate you sharing your thoughts on shuffle and lock screen controls, and we'll pass your feedback along to the team!"
+}

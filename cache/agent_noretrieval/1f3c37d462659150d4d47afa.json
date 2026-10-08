@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer was charged twice and needs account-specific billing intervention/refunds which requires human support via DM.",
+ "reply": "Hey there! We want to help get this double charge sorted out right away. Send us a DM with the email tied to your account and we'll take a closer look backstage!"
+}

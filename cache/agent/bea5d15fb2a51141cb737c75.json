@@ -1,0 +1,8 @@
+{
+ "intent": "content_availability",
+ "confidence": "high",
+ "escalate": false,
+ "escalation_code": "none",
+ "reason": "The user is asking why a specific song is missing from playlists, which is a content availability question that can be auto-handled.",
+ "reply": "Hey there! Music availability can vary depending on licensing, but we'll share your thoughts with the team. You can check more info about content here: [link: Spotify Support]"
+}

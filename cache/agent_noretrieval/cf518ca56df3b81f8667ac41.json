@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "The customer is asking us to verify and address a specific billing charge of $9.99 versus a student rate, which requires account-specific action and a human agent.",
+ "reply": "Hey there! We can certainly take a closer look at that charge for you. Please send us a DM with the email address linked to your account so our support crew can help sort this out."
+}

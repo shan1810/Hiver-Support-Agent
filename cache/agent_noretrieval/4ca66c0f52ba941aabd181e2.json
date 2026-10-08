@@ -1,0 +1,8 @@
+{
+ "intent": "plan_student_family",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Family plan invite issues require account-specific troubleshooting that a public reply cannot handle.",
+ "reply": "Hey there! Let's get your Family invite sorted out so you can get back to your music. Send us a DM with the account details so our support crew can check it out!"
+}

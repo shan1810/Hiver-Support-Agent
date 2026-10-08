@@ -1,0 +1,49 @@
+{
+ "scores": [
+  {
+   "rid": "R1",
+   "grounded": 3,
+   "helpful": 2,
+   "tone": 4,
+   "action_ok": false,
+   "send_ready": false,
+   "note": "Assumes a DM conversation exists without evidence."
+  },
+  {
+   "rid": "R2",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Appropriate escalation for account-specific data migration."
+  },
+  {
+   "rid": "R3",
+   "grounded": 4,
+   "helpful": 5,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Clear, helpful, and correctly identifies the need for account-specific support."
+  },
+  {
+   "rid": "R4",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Good tone and correctly routes to DM for account-specific help."
+  },
+  {
+   "rid": "R5",
+   "grounded": 4,
+   "helpful": 4,
+   "tone": 4,
+   "action_ok": true,
+   "send_ready": true,
+   "note": "Concise and helpful request for necessary account information."
+  }
+ ]
+}

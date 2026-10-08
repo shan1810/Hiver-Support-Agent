@@ -1,0 +1,8 @@
+{
+ "intent": "billing_payment",
+ "confidence": "high",
+ "escalate": true,
+ "escalation_code": "E1",
+ "reason": "Escalated because finding and managing forgotten accounts with payment methods requires backend account lookup and actions that cannot be resolved in a public reply.",
+ "reply": "Hey there! Help's here. Can you DM us the email addresses you might have used previously? We'll take a look under the hood."
+}
