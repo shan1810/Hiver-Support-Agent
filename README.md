@@ -1,4 +1,4 @@
-# SpotifyCares support agent: Hiver SDE Intern take-home
+# SpotifyCares support agent: Hiver Assignment
 
 An AI first-line agent for **@SpotifyCares**, built from the [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset. For each incoming tweet it:
 
